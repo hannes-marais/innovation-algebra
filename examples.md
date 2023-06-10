@@ -71,87 +71,85 @@ Here are 100 examples of IA expressions with brief descriptions:
 23. `Advisors("AI in healthcare")`
     - Creates a board of advisors for AI in healthcare.
     
-24. `Topic("Space Exploration") | KF(.) | RD(.)`
+24. `Topic("Space Exploration") | KF | RD`
     - Retrieves knowledge on space exploration, identifies cutting-edge ideas, and lists research directions.
     
 25. `++("Nanotechnology")`
     - Creates a composite output on nanotechnology for an expert.
     
-26. `Topic("Cybersecurity") | D(.)`
+26. `Topic("Cybersecurity") | D`
     - Retrieves knowledge on cybersecurity and provides details.
     
-27. `Union("Machine Learning", "Statistics") | Related(.)`
+27. `Union("Machine Learning", "Statistics") | Related`
     - Finds related domains to the union of Machine Learning and Statistics.
     
-28. `KF("Biotechnology") | Q(.)`
+28. `KF("Biotechnology") | Q`
     - Identifies cutting-edge ideas in biotechnology and lists top research questions.
     
-29. `Topic("Blockchain") | A(.)`
+29. `Topic("Blockchain") | Q | A`
     - Retrieves knowledge on blockchain and provides appropriate information.
     
 30. `Topic("Mental health") | PF(., profundity=10)`
-
-
     - Retrieves knowledge on mental health and generates a profound statement.
     
-31. `RD("Smart Cities") | Title(.)`
+31. `RD("Smart Cities") | Title`
     - Lists research directions in smart cities and creates a title for them.
     
-32. `Explain("Quantum Entanglement") | Abstract(.)`
+32. `Explain("Quantum Entanglement") | Abstract`
     - Explains quantum entanglement and generates a summary.
     
 33. `Essay("Social impact of AI", tokens=800) | Score(., ["Originality", "Emotional Impact"])`
     - Generates an essay on the social impact of AI and evaluates it.
     
-34. `Topic("3D Printing") | Advisors(.)`
+34. `Topic("3D Printing") | Advisors`
     - Retrieves knowledge on 3D printing and creates a board of advisors.
     
-35. `Topic("Gene Editing") | VC(.)`
+35. `Topic("Gene Editing") | VC`
     - Retrieves knowledge on gene editing and provides a venture capitalist's perspective.
     
-36. `IP("Artificial Intelligence") | FIP(.)`
+36. `IP("Artificial Intelligence") | FIP`
     - Identifies historical milestones in AI and projects future milestones.
     
-37. `Essay("Ethics in AI", tokens=600) | Impr(., ["Practicality", "Relevance"])`
+37. `Essay("Ethics in AI", tokens=600) | Impr( "Practicality", "Relevance"])`
     - Generates an essay on ethics in AI and evaluates it.
     
 38. `Topic("Virtual Reality") | Names(.)`
     - Retrieves knowledge on virtual reality and lists top people, companies, and products.
     
-39. `KF("Renewable Energy") | Startups(.)`
+39. `KF("Renewable Energy") | Startups`
     - Identifies cutting-edge ideas in renewable energy and invents startups based on them.
     
-40. `Q("Neuroscience") | A(.)`
+40. `Q("Neuroscience") | A`
     - Lists top research questions in neuroscience and answers them.
     
-41. `Topic("Machine Learning Algorithms") | D(.)`
+41. `Topic("Machine Learning Algorithms") | D`
     - Retrieves knowledge on machine learning algorithms and provides details.
     
-42. `Union("Internet of Things", "Smart Homes") | RD(.)`
+42. `Union("Internet of Things", "Smart Homes") | RD`
     - Generates union of knowledge in IoT and Smart Homes and lists research directions.
     
 43. `D("Deep Learning") | Score(., ["Completeness", "Accuracy"])`
     - Provides details on deep learning and evaluates them.
     
-44. `Topic("Climate Change Solutions") | PF(., profundity=9)`
+44. `Topic("Climate Change Solutions") | PF(profundity=9)`
     - Retrieves knowledge on climate change solutions and generates a profound statement.
     
-45. `Topic("Electric Vehicles") | RD(.) | Advisors(.)`
+45. `Topic("Electric Vehicles") | RD | Advisors`
     - Retrieves knowledge on electric vehicles, lists research directions, and creates a board of advisors.
     
-46. `Topic("Data Privacy") | POV(.)`
+46. `Topic("Data Privacy") | POV`
     - Retrieves knowledge on data privacy and creates contrastive expert opinions.
     
-47. `KF("Autonomous Drones") | VC(.)`
+47. `KF("Autonomous Drones") | VC`
     - Identifies cutting-edge ideas in autonomous drones and provides a venture capitalist's perspective.
     
-48. `Union("Natural Language Processing", "Linguistics") | KF(.)`
+48. `Union("Natural Language Processing", "Linguistics") | KF`
     - Generates union of knowledge in NLP and Linguistics, and identifies cutting-edge ideas.
     
-49. `Topic("Augmented Reality in Education") | PF(., profundity=7) | Title(.)`
+49. `Topic("Augmented Reality in Education") | PF(profundity=7) | Title(.)`
     - Retrieves knowledge on AR in education, generates a profound statement, and creates a title for it.
     
-50. `KF("Space Tourism") | Startups(.) | VC(.)`
+50. `KF("Space Tourism") | Startups | VC`
     - Identifies cutting-edge ideas in space tourism, invents startups based on them, and provides a venture capitalist's perspective.
 
 51. `Topic("Cryptography") | D`
