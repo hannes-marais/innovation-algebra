@@ -18,7 +18,7 @@ Instructions:
 
 * Click the above link to open a saved ChatGPT session with the IA prompt loaded.
 * Click 'Continue conversation'.
-* Start using IA. For example type `Topic("AI risk") | ++ `.
+* Start using IA. For example type `Topic("AI risk") | ++ ` [(IA Response)](ai-risk.md).
 
 # Example IA Conversations in ChatGPT
 
