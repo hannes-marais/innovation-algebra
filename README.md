@@ -12,14 +12,14 @@ Here is the current [ChatGPT prompt](/ia-gpt-4.md) (version 2.1).
 
 # Get Started Now
 
-[Start working with IA](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
+[Start chatting](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
 
 Instructions:
 
-* Click the link to open a saved ChatGPT session with the IA prompt loaded.
+* Click the above link to open a saved ChatGPT session with the IA prompt loaded.
 * Click 'Continue conversation'.
 * Start using IA. For example type `Topic("AI risk") | ++ `.
-* 
+
 # Example IA Conversations in ChatGPT
 
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
