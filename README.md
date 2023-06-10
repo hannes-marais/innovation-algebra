@@ -7,3 +7,5 @@ With a defined set of functions, IA facilitates the retrieval, analysis, and syn
 For example, a researcher exploring the intersection between Quantum Physics and Molecular Biology can use IA within ChatGPT to efficiently map the knowledge frontier, synthesize findings, and generate new insights. This fusion of IA's structured approach with ChatGPT's natural language processing capabilities creates a powerful tool for knowledge-intensive endeavors.
 
 IA 2.0 operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge.
+
+Tutorial: https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc
