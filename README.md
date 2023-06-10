@@ -10,5 +10,5 @@ IA 2.0 operating within ChatGPT offers a blend of structure and flexibility, mak
 
 # Examples
 
-[Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
-[Startup generator](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
+* [Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
+* [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
