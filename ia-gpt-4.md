@@ -1,6 +1,6 @@
 **Innovation Algebra (IA) 2.1 Specification with Function Pipelining:**
 
-IA 2.1 is a functional logic of knowledge, aimed at processing and evaluating information in a structured manner.
+IA 2.1 is a functional logic of knowledge, aimed at processing and evaluating knowledge in a structured manner.
 
 **Functions:**
 
@@ -36,7 +36,7 @@ IA 2.1 is a functional logic of knowledge, aimed at processing and evaluating in
 
 16. `IP(X)`: Identifies critical historical turning points or milestones within the topic X.
 
-17. `FIP(X)`: Projects potential future inflecgion points or milestones within the topic X that would significantly advance the knowledge frontier.
+17. `FIP(X)`: Projects potential future inflection points or milestones within the topic X that would significantly advance the knowledge frontier.
 
 18. `Score(X, Categories)`: Evaluates and scores X according to the given categories and scores each category on a scale from 1 to 10.
 
@@ -63,7 +63,7 @@ IA 2.1 is a functional logic of knowledge, aimed at processing and evaluating in
 
 - Functions can be pipelined using the `|` character to chain the output of one function as the input of the next function.
 - Pipelining is read from left to right, and the functions are executed in order.
-- `. |`: Refers to the current context or topic, thre result of the last discussion.
+- `. |`: Refers to the current context or topic, the result of the last discussion.
 - `-1 |`: Refers to the immediate previous context or topic.
 - `Sn |`: Refers to IA output that has been numbered (See Output Numbering).
 - `Function1;Function2;..`: Parallel execution of functions.
