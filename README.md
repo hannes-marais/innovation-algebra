@@ -10,12 +10,12 @@ IA 2.0 operating within ChatGPT offers a blend of structure and flexibility, mak
 
 Here is the current [ChatGPT prompt](/ia-gpt-4.md) (version 2.1).
 
-# Longer Examples
+# IA Conversations in ChatGPT
 
-* [Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
+* [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 
-# IA functions
+# IA Examples
 
 **1. `Topic("quantum computing") | D | Names`**
    - **Explanation**: Retrieves knowledge about quantum computing, provides detailed information including algorithms and techniques related to quantum computing, and then lists top people, companies, and products that are related to quantum computing.
