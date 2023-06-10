@@ -12,7 +12,7 @@ Here is the current [ChatGPT prompt](/ia-gpt-4.md) (version 2.1).
 
 # Get Started Now
 
-[Start chatting](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
+[>>> Start chatting <<<](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
 
 Instructions:
 
