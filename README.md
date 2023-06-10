@@ -62,3 +62,6 @@ Instructions:
 
 **12. `Score(Essay("modern art", tokens=300, profundity=6, emotionalImpact=8), Categories=["Originality", "Emotional Impact"])`**
     - **Explanation**: Generates a short essay on modern art with profundity and emotional impact, and then evaluates and scores the essay according to originality and emotional impact categories.
+    
+[More Examples](examples.md)
+
