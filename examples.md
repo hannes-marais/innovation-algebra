@@ -1,6 +1,6 @@
 ## Examples
 
-S3: Here are 50 examples of IA expressions with brief descriptions:
+Here are 100 examples of IA expressions with brief descriptions:
 
 1. `Topic("Artificial Intelligence")`
    - Retrieves knowledge on artificial intelligence.
