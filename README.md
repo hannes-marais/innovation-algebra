@@ -58,7 +58,9 @@ Instructions:
     - **Explanation**: Retrieves knowledge on robotics, presents comments, challenges, and potential from a venture capitalist's perspective, and creates a board of advisors related to robotics who give feedback.
 
 **11. `Topic("nanotechnology") | RD | Essay(tokens=800, profundity=7, emotionalImpact=5)`**
+    
     - **Explanation**: Retrieves knowledge on nanotechnology, lists valuable research directions in the domain, and generates an essay based on these research directions with around 800 tokens and adjustable profundity and emotional impact levels.
 
 **12. `Score(Essay("modern art", tokens=300, profundity=6, emotionalImpact=8), Categories=["Originality", "Emotional Impact"])`**
+    
     - **Explanation**: Generates a short essay on modern art with profundity and emotional impact, and then evaluates and scores the essay according to originality and emotional impact categories.
