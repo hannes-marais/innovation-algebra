@@ -41,7 +41,6 @@ Instructions:
 - **Brainstorming**
 - **Mind mapping**
 
-Also includes a new meta-framework called [FIRE](FIRE.md).
 
 0. **SCAMPER** is an acronym that stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. It is a creative problem-solving and brainstorming technique used to generate innovative ideas for products, services, or processes. .
 
@@ -66,6 +65,10 @@ Also includes a new meta-framework called [FIRE](FIRE.md).
 10. **Reverse Brainstorming (Problem Reversal)**: Instead of thinking about how to solve a problem, in reverse brainstorming, you think about how you might cause the problem. This often leads to a better understanding of the problem and novel solutions.
 
 These frameworks can be used individually or in combination depending on the context and the nature of the problem you are trying to solve. The key is to encourage diverse thinking and to approach problems from different angles.
+
+# FIRE meta-framework
+
+IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to think about using all the idea frameworks in the whole innovation process.
 
 # IA Examples
 
