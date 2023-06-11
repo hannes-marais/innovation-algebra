@@ -12,8 +12,8 @@ Here is the current [ChatGPT prompt](/ia-gpt-4.md) (version 2.2). Follow the dev
 
 # Get Started Now
 
-[>>> Start chatting IA 2.2 <<<](https://chat.openai.com/share/977119a8-60ef-49d4-8a0f-4e0ae6ce9ff1)
-[>>> Start chatting IA 2.1 <<<](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
+- [>>> Start chatting IA 2.2 <<<](https://chat.openai.com/share/977119a8-60ef-49d4-8a0f-4e0ae6ce9ff1)
+- [>>> Start chatting IA 2.1 <<<](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
 
 Instructions:
 
