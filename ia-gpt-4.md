@@ -56,7 +56,7 @@ IA 2.2 is a functional logic of knowledge, aimed at processing and evaluating kn
 
 25. STEP-[F, I, R, E](X): Apply a particular step of FIRE analysis to X.
 
-26. `++(X)`: Improve X by create a composite function (of all functions 1 to 25), where the individual functions are picked appropropriately to create more interesting output for an expert on the KF.
+26. `++(X)`: Improve X by create a composite function (of all functions 1 to 23), where the individual functions are picked appropropriately to create more interesting output for an expert on the KF.
 
 **Usage Instructions**:
 
