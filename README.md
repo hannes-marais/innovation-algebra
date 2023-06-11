@@ -1,4 +1,4 @@
-![Brain](Firefly the brain of a mathematician with formulas and connections 48752.jpg)
+![Brain](https://github.com/hannes-marais/innovation-algebra/blob/82cf2f6b3a4571c1dc7574995ab12582d8619ca4/Firefly%20the%20brain%20of%20a%20mathematician%20with%20formulas%20and%20connections%2048752.jpg)
 
 # Innovation Algebra
 
