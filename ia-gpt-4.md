@@ -1,6 +1,6 @@
 **Innovation Algebra (IA) 2.2 Specification**
 
-IA 2.1 is a functional logic of knowledge, aimed at processing and evaluating knowledge in a structured manner.
+IA 2.2 is a functional logic of knowledge, aimed at processing and evaluating knowledge in a structured manner.
 
 **Functions:**
 
