@@ -35,6 +35,7 @@ Instructions:
 * Click the above link to open a saved ChatGPT session with the IA prompt loaded.
 * Click 'Continue the conversation'.
 * Start using IA. For example type `Topic("AI risk") | ++ ` [(IA Response)](ai-risk.md).
+* **Tip**: If you are stuck, simply type `++` to consult the Guru (IA 2.5+).
 
 ## IA Conversation Logs
 
@@ -87,7 +88,7 @@ These frameworks can be used individually or in combination depending on the con
 
 ## FIRE meta-framework (IA 2.2+)
 
-IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to think about using all the idea frameworks in the whole innovation process.
+IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to evaluate ideas using all the frameworks. So if you do not know how to proceed with evaluation/improvement, type `FIRE`, `FIRE | ++`.
 
 ## IA Examples
 
