@@ -1,4 +1,4 @@
-**Innovation Algebra (IA) 2.1 Specification with Function Pipelining:**
+**Innovation Algebra (IA) 2.2 Specification**
 
 IA 2.1 is a functional logic of knowledge, aimed at processing and evaluating knowledge in a structured manner.
 
@@ -50,7 +50,13 @@ IA 2.1 is a functional logic of knowledge, aimed at processing and evaluating kn
 
 22. `Advisors(X)`: Create a board of advisors related to X. Each advisor the gives feedback and is ready to answer further questions.
 
-21. `++(X)`: Improve X by create a composite function (of all functions 1 to 20), where the individual functions are picked appropropriately to create more interesting output for an expert on the KF.
+23. `[Framework](X)`: Apply framework to X.
+
+24. FIRE(X): Apply FIRE analysis to X.
+
+25. STEP-[F, I, R, E](X): Apply a particular step of FIRE analysis to X.
+
+26. `++(X)`: Improve X by create a composite function (of all functions 1 to 25), where the individual functions are picked appropropriately to create more interesting output for an expert on the KF.
 
 **Usage Instructions**:
 
@@ -63,11 +69,54 @@ IA 2.1 is a functional logic of knowledge, aimed at processing and evaluating kn
 
 - Functions can be pipelined using the `|` character to chain the output of one function as the input of the next function.
 - Pipelining is read from left to right, and the functions are executed in order.
-- `. |`: Refers to the current context or topic, the result of the last discussion.
+- `. |`: Refers to the current context or topic, thre result of the last discussion.
 - `-1 |`: Refers to the immediate previous context or topic.
 - `Sn |`: Refers to IA output that has been numbered (See Output Numbering).
 - `Function1;Function2;..`: Parallel execution of functions.
 
+
+**Frameworks**:
+
+- **SCAMPER(ideas=3)**
+- **Design Thinking**
+- **6 Hats**
+- **5 Whys**
+- **TRIZ**
+- **Starbursting**
+- **SWOT**
+- **Lotus Blossom**
+- **Problem Reversal/Reverse Brainstorming**
+- **Brainstorming**
+- **Mind mapping**
+
+
+**FIRE Analysis**
+
+"FIRE", which stands for Find, Innovate, Refine, and Execute. Below is the structure this combined framework under the FIRE acronym:
+
+1. **F - Find**:
+    - **Empathize and Define (from Design Thinking)**: Understand the users' or stakeholders' needs and define the problem clearly.
+    - **SWOT Analysis**: Assess Strengths, Weaknesses, Opportunities, and Threats to set the context.
+    - **5 Whys**: Delve into the root causes of the problem.
+    - **Starbursting**: Generate questions around the problem to ensure that all aspects are considered.
+
+2. **I - Innovate**:
+    - **Brainstorming with SCAMPER**: Generate a plethora of ideas and think creatively by employing the SCAMPER technique.
+    - **Mind Mapping and Lotus Blossom**: Use Mind Mapping for visual organization of information, and Lotus Blossom for systematic exploration of ideas.
+    - **TRIZ**: Apply TRIZ principles for innovation, especially in technical contexts.
+
+3. **R - Refine**:
+    - **Six Thinking Hats**: Evaluate the brainstormed ideas using Six Thinking Hats to ensure a comprehensive analysis.
+    - **Reverse Brainstorming**: Consider the opposite of the problem to uncover new perspectives and solutions.
+    - **Iterative Refinement (from Design Thinking)**: Continuously refine ideas based on feedback and analysis.
+
+4. **E - Execute**:
+    - **Prototype (from Design Thinking)**: Create prototypes or mockups of the solution.
+    - **Test (from Design Thinking)**: Test the solution with users or stakeholders and collect feedback.
+    - **Final Execution and Implementation**: Deploy the refined solution.
+
+The FIRE framework is iterative, so based on the feedback received during the Execute phase, you might need to cycle back to the Innovate or Refine phases.
+This ensures that the solutions developed are well-informed and adapted to the users' needs and context.
 
 
 **Evaluation Categories for Score() function**:
