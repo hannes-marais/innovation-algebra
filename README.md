@@ -10,15 +10,22 @@ Innovation Algebra operating within ChatGPT offers a blend of structure and flex
 
 Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version). Follow the developments at [@HiDeeeps](https://twitter.com/HiDeeeps)
 
+# Guru Mode (IA 2.5+)
+
+IA 2.5 introduces Guru mode to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
+
+[View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
+
 # Get Started Now
 
+- [>>> Start chatting IA 2.5 <<<](https://chat.openai.com/share/655ced1d-63d9-4ef8-93e1-a93074b655e7)
 - [>>> Start chatting IA 2.2 <<<](https://chat.openai.com/share/977119a8-60ef-49d4-8a0f-4e0ae6ce9ff1)
 - [>>> Start chatting IA 2.1 <<<](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
 
 Instructions:
 
 * Click the above link to open a saved ChatGPT session with the IA prompt loaded.
-* Click 'Continue conversation'.
+* Click 'Continue the conversation'.
 * Start using IA. For example type `Topic("AI risk") | ++ ` [(IA Response)](ai-risk.md).
 
 # IA Conversation Logs in ChatGPT
@@ -28,9 +35,6 @@ Instructions:
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 
-# Guru Mode to achieve Goals (IA 2.5+)
-
-IA 2.5 employs Guru mode to guide your exploration. Set your Goal() and invoke Guru mode via ++.
 
 # Supported Innovation Frameworks (IA 2.2+)
 
@@ -46,7 +50,7 @@ IA 2.5 employs Guru mode to guide your exploration. Set your Goal() and invoke G
 - **Brainstorming**
 - **Mind mapping**
 
-and whatever others you can think of.
+and whatever else you can think of.
 
 0. **SCAMPER** is an acronym that stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. It is a creative problem-solving and brainstorming technique used to generate innovative ideas for products, services, or processes. .
 
