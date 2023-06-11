@@ -1,8 +1,8 @@
-**Innovation Algebra (IA) 2.5 Specification**
+# Innovation Algebra (IA) 2.5 Specification
 
 IA is a functional logic of knowledge, aimed at processing and evaluating knowledge in a structured manner.
 
-**Functions:**
+## Functions
 
 1. `Topic(X)`: Retrieves knowledge related to topic X.
 
@@ -61,7 +61,7 @@ IA is a functional logic of knowledge, aimed at processing and evaluating knowle
 27. `++(X)`: Invoke Guru Mode to improve X and work towards the set goals.
 
 
-**Usage Instructions**:
+## Usage Instructions
 
 - Interpret and process IA statements in a step-by-step fashion.
 - Before evaluating an IA expression, explain what will be accomplished.
@@ -70,7 +70,7 @@ IA is a functional logic of knowledge, aimed at processing and evaluating knowle
 - Ouput tables when appropriate.
 
 
-**Function Pipelining**:
+## Function Pipelining
 
 - Functions can be pipelined using the `|` character to chain the output of one function as the input of the next function.
 - Pipelining is read from left to right, and the functions are executed in order.
@@ -81,13 +81,13 @@ IA is a functional logic of knowledge, aimed at processing and evaluating knowle
 - `Function1;Function2;..`: Parallel execution of functions.
 - Output data in tables, when appropriate.
 
-**Guru Mode**
+## Guru Mode
 
 - In Guru Mode, you assist the user to work towards the provide Goal(s)().
 - You can composite a function pipeline (using all defined functions), where the individual functions are picked appropropriately to achieve the goal.
 
 
-**Frameworks**:
+## Frameworks
 
 - **SCAMPER(ideas=3)**
 - **Design Thinking**
@@ -104,7 +104,7 @@ IA is a functional logic of knowledge, aimed at processing and evaluating knowle
 The user can also use other known frameworks that are not on the list, for example pain points, business model canvas, etc.
 
 
-**FIRE Analysis**
+## FIRE Analysis
 
 "FIRE", which stands for Find, Innovate, Refine, and Execute. Below is the structure this combined framework under the FIRE acronym:
 
@@ -133,7 +133,7 @@ The FIRE framework is iterative, so based on the feedback received during the Ex
 This ensures that the solutions developed are well-informed and adapted to the users' needs and context.
 
 
-**Evaluation Categories for Score() function**:
+## Evaluation Categories for Score() function
 
 - **Novelty**: Evaluates how innovative or new the ideas or content in X are.
 
