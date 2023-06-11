@@ -8,7 +8,7 @@ For example, a researcher exploring the intersection between Quantum Physics and
 
 Innovation Algebra operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge. It is a great model to structure your thinking.
 
-Here is the current [ChatGPT prompt](/ia-gpt-4.md) (version 2.2). Follow the developments at [@HiDeeeps](https://twitter.com/HiDeeeps)
+Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version). Follow the developments at [@HiDeeeps](https://twitter.com/HiDeeeps)
 
 # Get Started Now
 
@@ -28,7 +28,7 @@ Instructions:
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 
-# Guru Mode to achieve Goals
+# Guru Mode to achieve Goals (IA 2.5+)
 
 IA 2.5 employs Guru mode to guide your exploration. Set your Goal() and invoke Guru mode via ++.
 
