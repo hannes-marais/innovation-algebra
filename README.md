@@ -1,5 +1,7 @@
 # Innovation Algebra
 
+> "Innovation Algebra (IA) is like a Swiss Army knife for knowledge processing and innovation; it's a versatile tool that brings structure and clarity to the complex world of ideas, helping innovators and thinkers to systematically navigate and cultivate the landscape of possibilities."
+
 Innovation Algebra (IA) is an my experimental framework designed for systematic processing and evaluation of information. What sets IA apart is its integration within ChatGPT, allowing users to leverage the natural language processing capabilities of ChatGPT in combination with the structured functions of IA.
 
 With a defined set of functions, IA facilitates the retrieval, analysis, and synthesis of knowledge across various domains. Function pipelining, a key feature of IA, allows for the sequential chaining of functions, streamlining complex multi-step tasks such as combining knowledge from different fields, identifying the forefront of research, and generating profound insights.
@@ -10,13 +12,13 @@ Innovation Algebra operating within ChatGPT offers a blend of structure and flex
 
 Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version). Follow the developments at [@HiDeeeps](https://twitter.com/HiDeeeps)
 
-# Guru Mode (IA 2.5+)
+## Guru Mode (IA 2.5+)
 
 IA 2.5 introduces Guru mode to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
 
 [View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
 
-# Get Started Now
+## Get Started Now
 
 - [>>> Start chatting IA 2.5 <<<](https://chat.openai.com/share/655ced1d-63d9-4ef8-93e1-a93074b655e7)
 - [>>> Start chatting IA 2.2 <<<](https://chat.openai.com/share/977119a8-60ef-49d4-8a0f-4e0ae6ce9ff1)
@@ -28,7 +30,7 @@ Instructions:
 * Click 'Continue the conversation'.
 * Start using IA. For example type `Topic("AI risk") | ++ ` [(IA Response)](ai-risk.md).
 
-# IA Conversation Logs in ChatGPT
+## IA Conversation Logs in ChatGPT
 
 * [Smart cities via Guru mode](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725) (IA 2.5)
 * [Idea generation with SCAMPER, Lotus Blossom, and related frameworks](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83) (IA 2.2)
@@ -36,7 +38,7 @@ Instructions:
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 
 
-# Supported Innovation Frameworks (IA 2.2+)
+## Supported Innovation Frameworks (IA 2.2+)
 
 - **SCAMPER**
 - **Design Thinking**
@@ -76,11 +78,11 @@ and whatever else you can think of.
 
 These frameworks can be used individually or in combination depending on the context and the nature of the problem you are trying to solve. The key is to encourage diverse thinking and to approach problems from different angles.
 
-# FIRE meta-framework (IA 2.2+)
+## FIRE meta-framework (IA 2.2+)
 
 IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to think about using all the idea frameworks in the whole innovation process.
 
-# IA Examples
+## IA Examples
 
 **1. `Topic("quantum computing") | D | Names`**
    - **Explanation**: Retrieves knowledge about quantum computing, provides detailed information including algorithms and techniques related to quantum computing, and then lists top people, companies, and products that are related to quantum computing.
