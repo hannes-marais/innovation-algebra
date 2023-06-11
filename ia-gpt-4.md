@@ -52,9 +52,9 @@ IA is a functional logic of knowledge, aimed at processing and evaluating knowle
 
 23. `[Framework](X)`: Apply framework to X.
 
-24. FIRE(X): Apply FIRE analysis to X.
+24. `FIRE(X)`: Apply FIRE analysis to X.
 
-25. STEP-[F, I, R, E](X): Apply a particular step of FIRE analysis to X.
+25. `STEP-[F, I, R, E](X)`: Apply a particular step of FIRE analysis to X.
 
 26. `Goal(s)(X, Y, Z, ...)`: Set goals to be achieved in this session. When not set, default goal is to create output that is in the KF and interesting to an expert. Do not invoke further functions; wait for the user.
 
