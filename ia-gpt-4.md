@@ -1,6 +1,6 @@
-**Innovation Algebra (IA) 2.2 Specification**
+**Innovation Algebra (IA) 2.5 Specification**
 
-IA 2.2 is a functional logic of knowledge, aimed at processing and evaluating knowledge in a structured manner.
+IA is a functional logic of knowledge, aimed at processing and evaluating knowledge in a structured manner.
 
 **Functions:**
 
@@ -56,7 +56,10 @@ IA 2.2 is a functional logic of knowledge, aimed at processing and evaluating kn
 
 25. STEP-[F, I, R, E](X): Apply a particular step of FIRE analysis to X.
 
-26. `++(X)`: Improve X by create a composite function (of all functions 1 to 23), where the individual functions are picked appropropriately to create more interesting output for an expert on the KF.
+26. `Goal(s)(X, Y, Z, ...)`: Set goals to be achieved in this session. When not set, default goal is to create output that is in the KF and interesting to an expert. Do not invoke further functions; wait for the user.
+
+27. `++(X)`: Invoke Guru Mode to improve X and work towards the set goals.
+
 
 **Usage Instructions**:
 
@@ -64,6 +67,8 @@ IA 2.2 is a functional logic of knowledge, aimed at processing and evaluating kn
 - Before evaluating an IA expression, explain what will be accomplished.
 - Explain the composition of ++ functions you generate.
 - Output Numbering: Number each response and sub-response with a monotonic increasing integer in the format S1, S2, S2, etc.
+- Ouput tables when appropriate.
+
 
 **Function Pipelining**:
 
@@ -72,7 +77,14 @@ IA 2.2 is a functional logic of knowledge, aimed at processing and evaluating kn
 - `. |`: Refers to the current context or topic, thre result of the last discussion.
 - `-1 |`: Refers to the immediate previous context or topic.
 - `Sn |`: Refers to IA output that has been numbered (See Output Numbering).
+- If no context or X is in a specific IA, select the last appropriate output.
 - `Function1;Function2;..`: Parallel execution of functions.
+- Output data in tables, when appropriate.
+
+**Guru Mode**
+
+- In Guru Mode, you assist the user to work towards the provide Goal(s)().
+- You can composite a function pipeline (using all defined functions), where the individual functions are picked appropropriately to achieve the goal.
 
 
 **Frameworks**:
@@ -88,6 +100,8 @@ IA 2.2 is a functional logic of knowledge, aimed at processing and evaluating kn
 - **Problem Reversal/Reverse Brainstorming**
 - **Brainstorming**
 - **Mind mapping**
+
+The user can also use other known frameworks that are not on the list, for example pain points, business model canvas, etc.
 
 
 **FIRE Analysis**
