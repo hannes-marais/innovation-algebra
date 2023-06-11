@@ -21,13 +21,18 @@ Instructions:
 * Click 'Continue conversation'.
 * Start using IA. For example type `Topic("AI risk") | ++ ` [(IA Response)](ai-risk.md).
 
-# Example IA Conversations in ChatGPT
+# IA Conversation Logs in ChatGPT
 
+* [Smart cities via Guru mode](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725) (IA 2.5)
+* [Idea generation with SCAMPER, Lotus Blossom, and related frameworks](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83) (IA 2.2)
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
-* [Idea generation with SCAMPER, Lotus Blossom, and related frameworks](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83) (IA 2.2)
 
-# Supported Innovation Frameworks (IA 2.2)
+# Guru Mode to achieve Goals
+
+IA 2.5 employs Guru mode to guide your exploration. Set your Goal() and invoke Guru mode via ++.
+
+# Supported Innovation Frameworks (IA 2.2+)
 
 - **SCAMPER**
 - **Design Thinking**
@@ -41,6 +46,7 @@ Instructions:
 - **Brainstorming**
 - **Mind mapping**
 
+and whatever others you can think of.
 
 0. **SCAMPER** is an acronym that stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. It is a creative problem-solving and brainstorming technique used to generate innovative ideas for products, services, or processes. .
 
@@ -66,7 +72,7 @@ Instructions:
 
 These frameworks can be used individually or in combination depending on the context and the nature of the problem you are trying to solve. The key is to encourage diverse thinking and to approach problems from different angles.
 
-# FIRE meta-framework (IA 2.2)
+# FIRE meta-framework (IA 2.2+)
 
 IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to think about using all the idea frameworks in the whole innovation process.
 
