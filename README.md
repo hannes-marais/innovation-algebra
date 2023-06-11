@@ -12,7 +12,8 @@ Here is the current [ChatGPT prompt](/ia-gpt-4.md) (version 2.2). Follow the dev
 
 # Get Started Now
 
-[>>> Start chatting <<<](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
+[>>> Start chatting IA 2.2 <<<](https://chat.openai.com/share/977119a8-60ef-49d4-8a0f-4e0ae6ce9ff1)
+[>>> Start chatting IA 2.1 <<<](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
 
 Instructions:
 
@@ -26,7 +27,7 @@ Instructions:
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [Idea generation with SCAMPER, Lotus Blossom, and more](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83)
 
-# Supported Frameworks
+# Supported Innovation Frameworks
 
 - **SCAMPER(ideas=3)**
 - **Design Thinking**
@@ -41,6 +42,30 @@ Instructions:
 - **Mind mapping**
 
 Also includes a new meta-framework called [FIRE](FIRE.md).
+
+0. **SCAMPER** is an acronym that stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. It is a creative problem-solving and brainstorming technique used to generate innovative ideas for products, services, or processes. .
+
+1. **Design Thinking**: This process is user-centered and involves five stages: empathize, define, ideate, prototype, and test. Design thinking focuses on understanding user needs and rapidly generating prototypes for feedback.
+
+2. **Six Thinking Hats**: Developed by Edward de Bono, this method encourages people to think in different ways. Each “hat” represents a different perspective: white (facts), red (emotions), black (judgment), yellow (benefits), green (creativity), and blue (process).
+
+3. **Brainstorming**: A classic idea generation technique where members of a group are encouraged to come up with as many ideas as possible, no matter how wild or impractical. The goal is quantity over quality, to later refine and analyze the suggestions.
+
+4. **Mind Mapping**: A visual technique where a central concept is placed in the center of a page and associated ideas, words, and concepts are added around it, forming a web of relationships. It helps to visualize the connections between ideas.
+
+5. **The Five Whys**: A simple problem-solving technique that involves asking "Why?" five times to get to the root cause of a problem. It helps teams to identify the underlying issues and work on effective solutions.
+
+6. **TRIZ**: A Russian acronym for “Theory of Inventive Problem Solving.” TRIZ offers a systematic approach for understanding and resolving complex problems. It’s based on patterns of problem-solving from a vast collection of patents and innovations.
+
+7. **Starbursting**: Starbursting focuses on generating questions rather than answers. A central idea is placed at the center of a star shape, with questions radiating out from the center. This helps in exploring various aspects of an idea.
+
+8. **SWOT Analysis**: SWOT stands for Strengths, Weaknesses, Opportunities, and Threats. This framework helps in understanding the internal and external factors that can impact the feasibility and success of a project or business idea.
+
+9. **Lotus Blossom Technique**: This technique involves writing down a central idea and surrounding it with eight related elements. Each of these elements is then treated as a new central idea, and the process is repeated.
+
+10. **Reverse Brainstorming (Problem Reversal)**: Instead of thinking about how to solve a problem, in reverse brainstorming, you think about how you might cause the problem. This often leads to a better understanding of the problem and novel solutions.
+
+These frameworks can be used individually or in combination depending on the context and the nature of the problem you are trying to solve. The key is to encourage diverse thinking and to approach problems from different angles.
 
 # IA Examples
 
