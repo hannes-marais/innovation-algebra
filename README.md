@@ -6,7 +6,7 @@ With a defined set of functions, IA facilitates the retrieval, analysis, and syn
 
 For example, a researcher exploring the intersection between Quantum Physics and Molecular Biology can use IA within ChatGPT to efficiently map the knowledge frontier, synthesize findings, and generate new insights. This fusion of IA's structured approach with ChatGPT's natural language processing capabilities creates a powerful tool for knowledge-intensive endeavors.
 
-IA 2.0 operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge.
+Innovation Algebra operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge. It is a great model to structure your thinking.
 
 Here is the current [ChatGPT prompt](/ia-gpt-4.md) (version 2.2). Follow the developments at [@HiDeeeps](https://twitter.com/HiDeeeps)
 
