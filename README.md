@@ -12,7 +12,7 @@ For example, a researcher exploring the intersection between Quantum Physics and
 
 Innovation Algebra operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge. It is a great model to structure your thinking.
 
-# The ChatGPT Prompt
+## The ChatGPT Prompt
 
 Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version). 
 
