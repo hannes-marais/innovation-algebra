@@ -25,7 +25,7 @@ Instructions:
 
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
-* [Idea generation with SCAMPER, Lotus Blossom, and more](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83)
+* [Idea generation with SCAMPER, Lotus Blossom, and related frameworks](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83) (IA 2.2)
 
 # Supported Innovation Frameworks (IA 2.2)
 
