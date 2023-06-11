@@ -8,7 +8,7 @@ For example, a researcher exploring the intersection between Quantum Physics and
 
 IA 2.0 operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge.
 
-Here is the current [ChatGPT prompt](/ia-gpt-4.md) (version 2.1). Follow the developments at [@HiDeeeps](https://twitter.com/HiDeeeps)
+Here is the current [ChatGPT prompt](/ia-gpt-4.md) (version 2.2). Follow the developments at [@HiDeeeps](https://twitter.com/HiDeeeps)
 
 # Get Started Now
 
