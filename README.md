@@ -29,7 +29,7 @@ Instructions:
 
 # Supported Innovation Frameworks
 
-- **SCAMPER(ideas=3)**
+- **SCAMPER**
 - **Design Thinking**
 - **6 Hats**
 - **5 Whys**
