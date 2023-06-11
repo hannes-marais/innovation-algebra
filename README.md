@@ -27,7 +27,7 @@ Instructions:
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [Idea generation with SCAMPER, Lotus Blossom, and more](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83)
 
-# Supported Innovation Frameworks
+# Supported Innovation Frameworks (IA 2.2)
 
 - **SCAMPER**
 - **Design Thinking**
@@ -66,7 +66,7 @@ Instructions:
 
 These frameworks can be used individually or in combination depending on the context and the nature of the problem you are trying to solve. The key is to encourage diverse thinking and to approach problems from different angles.
 
-# FIRE meta-framework
+# FIRE meta-framework (IA 2.2)
 
 IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to think about using all the idea frameworks in the whole innovation process.
 
