@@ -48,6 +48,7 @@ Instructions:
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc) (IA 2.1)
 
+Please send me links to your interesting IA conversations!
 
 ## Supported Innovation Frameworks (IA 2.2+)
 
