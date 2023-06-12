@@ -134,9 +134,9 @@ IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way
 
 ## Citing IA?
 
-I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so please feel free to not cite IA at all. 
+I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so please feel free to not cite IA. 
 
-However, I do appreciate feedback, and/or success stories from the innovation trenches. I can be reached via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps).
+However, I do appreciate feedback and success stories from the innovation trenches. Reach out via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps) or [LinkedIn](https://www.linkedin.com/in/hannesmarais/).
 
-- Hannes Marais
+Keep innovating! Hannes MARAIS
 
