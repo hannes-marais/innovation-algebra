@@ -42,7 +42,7 @@ Instructions:
 
 ## Innovation Algebra Case Studies
 
-Innovating, solving real problems is .. **really complex**. 
+Innovating, solving real problems is .. **really complex**. IA aspires to solve real problems with AI.
 
 Hence IA is much more complex than the typical ChatGPT prompt. IA uses frameworks that you probably never heard of before. The best way to get a feeling for how it can be used in practice to read some case studies. 
 
@@ -56,16 +56,22 @@ Hence IA is much more complex than the typical ChatGPT prompt. IA uses framework
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc) (IA 2.1)
 
-Tips:
+If you have an interesting case study, please reach out to add it to our list.
 
-* Beginners can safely ignore output that looks like code. You can do a lot by setting a goal, and invoking the Guru to guide you.
-* So, ff you don't know what to do next, type `++` to invoke the Guru. 
+## Tips
+
+* Needless to say, tou need to have a basic knowledge of [ChatGPT](https://chat.openai.com/) and what a prompt is.
+* Read a few case studies, even if the topic does not interest you.
+* Beginners can safely ignore Innovation Algebra output that looks like scary code.
+* You don't need to use the IA functions exactly as defined. You can also just type your request. 
+* You can do a lot by setting a goal, and invoking the Guru to guide you.
+* If you don't know what to do next, type `++` to invoke the Guru. It will guide you.
 * You can do a lot with the core functions KF, RD, Q, and Essay. Learn them.
 * My suggestion is to keep a list of the frameworks handy (see below). Try the frameworks and see what they do. You don't need to be an expert to use them.
 * IA conversations can get very long, very quickly. At some point, ChatGPT runs out of 'memory', and its IQ drops like 50 points. 
-* I recommend ChatGPT Plus. IA is totally free, but you will have to pay for the ChatGPT Plus subscription for the best results.
+* I recommend ChatGPT Plus. Innovation Algebra is totally free, but you will have to pay for the ChatGPT Plus subscription for the best results.
 
-If you have an interesting case study, please reach out to add it to our list above.
+
 
 ## Supported Innovation Frameworks (IA 2.2+)
 
