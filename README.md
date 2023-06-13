@@ -40,9 +40,11 @@ Instructions:
 * Start using IA. For example type `Topic("AI risk") | ++ ` [(IA Response)](ai-risk.md).
 * **Tip**: If you are stuck, simply type `++` to consult the Guru (IA 2.5+).
 
-## IA Conversation Logs
+## Innovation Algebra Case Studies
 
-* [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - 
+Solving real complex problems is .. **complex**. So using IA is more complex than the typical ChatGPT prompt. The best way to get a feeling for how it can be used in practice to read some case studies. 
+
+* [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Using IA 2.6, explores policies around city revitalization.
 * [A new type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - very long conversation about inventing a new type of light. Unfortunately ChatGPT ran out of context, so it gets confused towards the end. But it helps invents something new and interesting! Touches community building, privacy, human psychology. Read till the end for the reveal.
 * [Reintroducing animals into cities](https://chat.openai.com/share/b69dcf03-5a85-49e7-8277-cbe2d8c5815c) - Conservation, public policy, and regulations. Covers a myriad of issues in 22 parts, purely driven by Guru mode. (Runs out of context)
 * [Inspired by Nature](https://chat.openai.com/share/e13a6c67-5b2c-4d45-bcba-d889e3da943f) - long conversation developing many ideas related to smart agriculture, including a "smart plant".
@@ -52,6 +54,12 @@ Instructions:
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc) (IA 2.1)
 
+Tips:
+
+* My suggestion is to keep a list of the frameworks handy. 
+* If you don't know what to do next, type `++` to invoke the Guru.
+* You can do a lot with the core functions KF, RD, Q, and Essay.
+* 
 Please send me links to your interesting IA conversations!
 
 ## Supported Innovation Frameworks (IA 2.2+)
