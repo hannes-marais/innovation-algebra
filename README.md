@@ -42,6 +42,7 @@ Instructions:
 ## IA Conversation Logs
 
 * [A new type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - very long conversation about inventing a new type of light. Unfortunately ChatGPT ran out of context, so it gets confused towards the end. But it helps invents something new and interesting! Touches community building, privacy, human psychology. Read till the end for the reveal.
+* [Reintroducing animals into cities](https://chat.openai.com/share/b69dcf03-5a85-49e7-8277-cbe2d8c5815c) - Conservation, public policy, and regulations. Covers a myriad of issues, purely driven by Guru mode.
 * [Inspired by Nature](https://chat.openai.com/share/e13a6c67-5b2c-4d45-bcba-d889e3da943f) - long conversation developing many ideas related to smart agriculture, including a "smart plant".
 * [Smart cities via Guru mode](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725) (IA 2.5)
 * [Human Hibernation](https://chat.openai.com/share/c0ec7efe-f5a6-439a-a081-cadf3bc1482b) (IA 2.5)
