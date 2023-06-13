@@ -14,18 +14,6 @@ Innovation Algebra operating within ChatGPT offers a blend of structure and flex
 
 If you are an entrepreneur, here is an [overview](swiss-army-knife-for-entreprenuers.md) of how IA can help you.
 
-## The ChatGPT Prompt
-
-Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version). 
-
-Follow the conversation at [@HiDeeeps](https://twitter.com/HiDeeeps)
-
-## Guru Mode (IA 2.5+)
-
-IA 2.5 introduces Guru mode to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
-
-[View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
-
 ## Get Started Now
 
 - [>>> Start chatting IA 2.6 <<<](https://chat.openai.com/share/8d15d103-52fe-468c-bde9-e35d4256d519)
@@ -40,11 +28,26 @@ Instructions:
 * Start using IA. For example type `Topic("AI risk") | ++ ` [(IA Response)](ai-risk.md).
 * **Tip**: If you are stuck, simply type `++` to consult the Guru (IA 2.5+).
 
+## The ChatGPT Prompt
+
+Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.6). 
+
+Happy to take improvement suggestions at [@HiDeeeps](https://twitter.com/HiDeeeps) or create a pull request,
+
+## Guru Mode (IA 2.5+)
+
+Since innovation frameworks are complex, IA 2.5 introduces Guru mode to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
+
+[View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
+
+
 ## Innovation Algebra Case Studies
 
-Innovating, solving real problems is .. **really complex**. IA aspires to solve real problems with AI.
+Innovating and solving real problems is .. **really complex**. 
 
-Hence IA is much more complex than the typical ChatGPT prompt. IA uses frameworks that you probably never heard of before. The best way to get a feeling for how it can be used in practice to read some case studies. 
+IA aspires to solve real-world problems using AI. Hence IA is much more complex than the typical ChatGPT prompt. IA uses frameworks that you probably never heard of before. 
+
+The best way to get a feeling for how it can be used in practice to read some case studies. 
 
 * [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Using IA 2.6, explores policies around city revitalization.
 * [A new type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - very long conversation about inventing a new type of light. Unfortunately ChatGPT ran out of context, so it gets confused towards the end. But it helps invents something new and interesting! Touches community building, privacy, human psychology. Read till the end for the reveal.
