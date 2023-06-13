@@ -63,7 +63,7 @@ If you have an interesting case study, please reach out to add it to our list.
 
 ## Tips
 
-* Needless to say, tou need to have a basic knowledge of [ChatGPT](https://chat.openai.com/) and what a prompt is.
+* Needless to say, you need to have a basic knowledge of [ChatGPT](https://chat.openai.com/) and what a prompt is.
 * Read a few case studies, even if the topic does not interest you.
 * Beginners can safely ignore Innovation Algebra output that looks like scary code.
 * You don't need to use the IA functions exactly as defined. You can also just type your request. 
