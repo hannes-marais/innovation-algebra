@@ -172,3 +172,6 @@ However, I do appreciate feedback and success stories from the innovation trench
 
 Keep innovating! Hannes MARAIS
 
+![Functions](IA.001.jpeg)
+
+
