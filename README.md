@@ -40,7 +40,7 @@ Since innovation frameworks are complex, IA 2.5 introduces Guru mode to guide yo
 
 [View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
 
-🧠+🤖
+🧠++🤖
 
 ## Innovation Algebra Case Studies
 
