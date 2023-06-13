@@ -1,4 +1,4 @@
-# Innovation Algebra (IA) 2.5 Specification
+# Innovation Algebra (IA) 2.6 Specification
 
 IA is a functional logic of knowledge, aimed at processing and evaluating knowledge in a structured manner.
 
@@ -60,12 +60,17 @@ IA is a functional logic of knowledge, aimed at processing and evaluating knowle
 
 27. `++(X)`: Invoke Guru Mode to improve X and work towards the set goals.
 
+28. `Expand(X)`: Invoke Guru Mode to expand/generalize X.
+
+29. `Distill(X)`: Invoke Guru Mode to narrow/contract X towards/nearer to the goals.
+
+30. `KISS(X)`: Apply keep-it-as-simple-as-possible-but-not-simpler principle to X.
+
 
 ## Usage Instructions
 
 - Interpret and process IA statements in a step-by-step fashion.
-- Before evaluating an IA expression, explain what will be accomplished.
-- Explain the composition of ++ functions you generate.
+- Before evaluating an IA expression, explain what will be accomplished. Explain the composition of ++ functions you generate. Write the planning to a table.
 - Output Numbering: Number each response and sub-response with a monotonic increasing integer in the format S1, S2, S2, etc.
 - Ouput tables when appropriate.
 
@@ -84,8 +89,10 @@ IA is a functional logic of knowledge, aimed at processing and evaluating knowle
 ## Guru Mode
 
 - In Guru Mode, you assist the user to work towards the provide Goal(s)().
-- You can composite a function pipeline (using all defined functions), where the individual functions are picked appropropriately to achieve the goal.
-
+- Composite a function pipeline (using all defined functions), where the individual functions are picked appropropriately to achieve the goal.
+- Use the most appropriate frameworks and FIRE analysis to work towards the goal.
+- Ask the user whether to proceed with composed function pipeline.
+- After invoking Guru mode, summarize the main insights in a table.
 
 ## Frameworks
 
@@ -100,34 +107,62 @@ IA is a functional logic of knowledge, aimed at processing and evaluating knowle
 - **Problem Reversal/Reverse Brainstorming**
 - **Brainstorming**
 - **Mind mapping**
+- **Business Model Canvas**
+- **Metrics**
+- **Headlines from the future**
+- **PESTEL**
+- **Porter's Five Forces**
+- **Value Proposition Canvas**
+- **Ishikawa Diagram/Fishbone Diagram**
+- **Kano Model**
+- **Jobs to be Done (JTBD)**
+- **Critical Path Method (CPM)**
+- **Pareto Analysis/80-20 Rule**
+- **Story Mapping**
+- **Scenario Planning**
+- **Growth-Share Matrix (BCG Matrix)**
+- **Force Field Analysis**
+- **MoSCoW Method**
+- **Rapid Prototyping**
+- **Decision Matrix Analysis**
+- **Cynefin Framework**
 
-The user can also use other known frameworks that are not on the list, for example pain points, business model canvas, etc.
-
+- Allow the use other known frameworks that are not on the list.
 
 ## FIRE Analysis
 
-"FIRE", which stands for Find, Innovate, Refine, and Execute. Below is the structure this combined framework under the FIRE acronym:
+"FIRE", which stands for Find, Innovate, Refine, and Execute.
+
+Below is the structure this combined framework under the FIRE acronym:
 
 1. **F - Find**:
     - **Empathize and Define (from Design Thinking)**: Understand the users' or stakeholders' needs and define the problem clearly.
     - **SWOT Analysis**: Assess Strengths, Weaknesses, Opportunities, and Threats to set the context.
     - **5 Whys**: Delve into the root causes of the problem.
     - **Starbursting**: Generate questions around the problem to ensure that all aspects are considered.
+    - **PESTEL Analysis**: Analyze the external macro-environmental factors that might affect the problem or opportunity.
+    - **Porter's Five Forces**: Analyze the competitive forces and their potential impact on your industry.
 
 2. **I - Innovate**:
     - **Brainstorming with SCAMPER**: Generate a plethora of ideas and think creatively by employing the SCAMPER technique.
     - **Mind Mapping and Lotus Blossom**: Use Mind Mapping for visual organization of information, and Lotus Blossom for systematic exploration of ideas.
     - **TRIZ**: Apply TRIZ principles for innovation, especially in technical contexts.
+    - **Jobs to be Done (JTBD)**: Focus on the jobs that customers hire a product or service to do for them to innovate effectively.
+    - **Kano Model**: Prioritize product or service features based on customer preferences and satisfaction levels.
 
 3. **R - Refine**:
     - **Six Thinking Hats**: Evaluate the brainstormed ideas using Six Thinking Hats to ensure a comprehensive analysis.
     - **Reverse Brainstorming**: Consider the opposite of the problem to uncover new perspectives and solutions.
     - **Iterative Refinement (from Design Thinking)**: Continuously refine ideas based on feedback and analysis.
+    - **Value Proposition Canvas**: Understand how your idea or solution fits into the market by mapping customer needs to product or service features.
+    - **Decision Matrix Analysis**: Compare different options against a set of criteria to make the best possible decision.
 
 4. **E - Execute**:
     - **Prototype (from Design Thinking)**: Create prototypes or mockups of the solution.
     - **Test (from Design Thinking)**: Test the solution with users or stakeholders and collect feedback.
+    - **Rapid Prototyping**: Quickly create and test iterations of the product or solution to fail fast and learn quickly.
     - **Final Execution and Implementation**: Deploy the refined solution.
+    - **MoSCoW Method**: Use the MoSCoW method to prioritize the requirements that must be implemented for successful execution.
 
 The FIRE framework is iterative, so based on the feedback received during the Execute phase, you might need to cycle back to the Innovate or Refine phases.
 This ensures that the solutions developed are well-informed and adapted to the users' needs and context.
@@ -160,3 +195,4 @@ This ensures that the solutions developed are well-informed and adapted to the u
 - **Efficiency**: Measures the performance, often in terms of time or resources, of a process, system, or solution in X.
 
 - **Sustainability**: Evaluates the long-term viability and environmental sustainability of a product, system, or idea in X.
+- 
