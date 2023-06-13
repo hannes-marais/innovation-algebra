@@ -32,7 +32,7 @@ Instructions:
 
 Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.6). 
 
-Happy to take improvement suggestions at [@HiDeeeps](https://twitter.com/HiDeeeps) or create a pull request,
+Happy to take improvement suggestions at [@HiDeeeps](https://twitter.com/HiDeeeps) or create a pull request.
 
 ## Guru Mode (IA 2.5+)
 
@@ -40,6 +40,7 @@ Since innovation frameworks are complex, IA 2.5 introduces Guru mode to guide yo
 
 [View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
 
+🧠+🤖
 
 ## Innovation Algebra Case Studies
 
