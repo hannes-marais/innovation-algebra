@@ -47,7 +47,7 @@ Innovating and solving real problems is .. **really complex**.
 
 IA aspires to solve real-world problems using AI. Hence IA is much more complex than the typical ChatGPT prompt. IA uses frameworks that you probably never heard of before. 
 
-The best way to get a feeling for how it can be used in practice to read some case studies. 
+The best way to get a feeling for how it can be used in practice is to read some case studies. 
 
 * [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Using IA 2.6, explores policies around city revitalization.
 * [A new type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - very long conversation about inventing a new type of light. Unfortunately ChatGPT ran out of context, so it gets confused towards the end. But it helps invents something new and interesting! Touches community building, privacy, human psychology. Read till the end for the reveal.
