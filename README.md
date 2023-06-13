@@ -42,9 +42,9 @@ Instructions:
 
 ## Innovation Algebra Case Studies
 
-Innovating, solving real problems is .. **complex**. 
+Innovating, solving real problems is .. **really complex**. 
 
-Hence IA is more complex than the typical ChatGPT prompt. It uses frameworks that you probably never heard of before. The best way to get a feeling for how it can be used in practice to read some case studies. 
+Hence IA is much more complex than the typical ChatGPT prompt. IA uses frameworks that you probably never heard of before. The best way to get a feeling for how it can be used in practice to read some case studies. 
 
 * [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Using IA 2.6, explores policies around city revitalization.
 * [A new type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - very long conversation about inventing a new type of light. Unfortunately ChatGPT ran out of context, so it gets confused towards the end. But it helps invents something new and interesting! Touches community building, privacy, human psychology. Read till the end for the reveal.
@@ -58,9 +58,12 @@ Hence IA is more complex than the typical ChatGPT prompt. It uses frameworks tha
 
 Tips:
 
-* If you don't know what to do next, type `++` to invoke the Guru.
-* You can do a lot with the core functions KF, RD, Q, and Essay.
-* My suggestion is to keep a list of the frameworks handy. Try the frameworks and see what they do.
+* Beginners can safely ignore output that looks like code. You can do a lot by setting a goal, and invoking the Guru to guide you.
+* So, ff you don't know what to do next, type `++` to invoke the Guru. 
+* You can do a lot with the core functions KF, RD, Q, and Essay. Learn them.
+* My suggestion is to keep a list of the frameworks handy (see below). Try the frameworks and see what they do. You don't need to be an expert to use them.
+* IA conversations can get very long, very quickly. At some point, ChatGPT runs out of 'memory', and its IQ drops like 50 points. 
+* I recommend ChatGPT Plus. IA is totally free, but you will have to pay for the ChatGPT Plus subscription for the best results.
 
 If you have an interesting case study, please reach out to add it to our list above.
 
