@@ -56,6 +56,7 @@ The best way to get a feeling for how IA can be used is the case studies.
 * [A New Type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - Inventing a new type of light. Unfortunately ChatGPT ran out of context. But it helps invents something new and interesting. Covers community building, privacy, human psychology. Read till the end for the reveal.
 * [Reintroducing Animals into Cities](https://chat.openai.com/share/b69dcf03-5a85-49e7-8277-cbe2d8c5815c) - Conservation, public policy, and regulations. Covers a myriad of issues in 22 parts. (Runs out of context)
 * [Grid-scale Energy Storage, Role of Regulatory Sandboxes](https://chat.openai.com/share/a25cd877-e800-4adb-a45e-14b4b1684089) - Energy policy; used design thinking, TRIZ, pareto principle, technical writing. 
+* [Noise Pollution](https://chat.openai.com/share/ce11c3d7-b0d9-4824-80bf-b7215270def2) - Starts with irritating problems, a lot of talk about new car horns, no conclusion.
 * [Inspired by Nature](https://chat.openai.com/share/e13a6c67-5b2c-4d45-bcba-d889e3da943f) - Develops several ideas related to smart agriculture, including a "smart plant".
 * [Smart cities](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725)
 * [Human Hibernation](https://chat.openai.com/share/c0ec7efe-f5a6-439a-a081-cadf3bc1482b)
