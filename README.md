@@ -51,8 +51,8 @@ IA aspires to solve real-world problems using AI. Hence IA is more complex than 
 The best way to get a feeling for how IA can be used is the case studies. 
 
 * [Using Metrics to Decide When to Abandon Your Startup](https://chat.openai.com/share/09c35144-6238-46ea-a037-9183262ec481) - Example using IA for technical writing.
-* [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Using IA 2.6, explores new policies around city revitalization.
-* [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - What do to with home chores? Create a startup?
+* [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Explores new policies around city revitalization.
+* [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - What do to with home chores?
 * [A New Type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - Inventing a new type of light. Unfortunately ChatGPT ran out of context. But it helps invents something new and interesting. Covers community building, privacy, human psychology. Read till the end for the reveal.
 * [Reintroducing Animals into Cities](https://chat.openai.com/share/b69dcf03-5a85-49e7-8277-cbe2d8c5815c) - Conservation, public policy, and regulations. Covers a myriad of issues in 22 parts. (Runs out of context)
 * [Inspired by Nature](https://chat.openai.com/share/e13a6c67-5b2c-4d45-bcba-d889e3da943f) - Develops several ideas related to smart agriculture, including a "smart plant".
