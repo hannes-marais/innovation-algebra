@@ -12,7 +12,8 @@ For example, a researcher exploring the intersection between Quantum Physics and
 
 Innovation Algebra operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge. It is a great model to structure your thinking.
 
-If you are an entrepreneur, here is an [overview](swiss-army-knife-for-entreprenuers.md) of how IA can help you.
+* [IA for Entrepreneurs](swiss-army-knife-for-entreprenuers.md)
+* [IA for City Planners](city-planning.md)
 
 ## Get Started Now
 
