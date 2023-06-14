@@ -23,3 +23,9 @@ Innovation Algebra is a conceptual tool that can be used by city planners to sys
 10. **Future-proofing**: By utilizing Innovation Algebra, city planners can anticipate future trends and technologies. This forward-thinking approach ensures that urban development is not only responsive to current challenges but also adaptable to future changes.
 
 In conclusion, Innovation Algebra equips city planners with a robust framework for navigating the complexities of urban development. Through systematic analysis and creative combinations of innovative elements, planners can develop more sustainable, efficient, and responsive solutions for the cities of tomorrow.
+
+# Case Studies
+
+These are conversations with ChatGPT that illustrate how IA can help solve complex problems.
+
+* [Noise Pollution II](https://chat.openai.com/share/fa063ea6-89f3-4aef-a538-500a1409577a)
