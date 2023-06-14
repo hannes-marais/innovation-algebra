@@ -42,7 +42,7 @@ Since innovation frameworks are complex, IA 2.5 introduces Guru mode to guide yo
 
 🧠++🤖
 
-## Innovation Algebra Case Studies
+## Case Studies
 
 Innovating and solving real problems is .. **really complex**. 
 
