@@ -56,6 +56,7 @@ IA aspires to solve real-world problems using AI. Hence IA is more complex than 
 The best way to get a feeling for how IA can be used is the case studies. 
 
 * [Noise Pollution II](https://chat.openai.com/share/fa063ea6-89f3-4aef-a538-500a1409577a) - Preview of IA 2.7 (under testing), with strategy and addition functions like case studies, insights, etc. This very representive of the state-of-the-art for IA.  IA 2.7 does much better than the previous version, compare with Noise Pollution I.
+* [Synthetic Cells](https://chat.openai.com/share/b84db000-83af-467f-8796-08d6baa853aa) - IA 2.7 allows you to explore the knowledge frontier of science. Pick the topic example.
 * [Using Metrics to Decide When to Abandon Your Startup](https://chat.openai.com/share/09c35144-6238-46ea-a037-9183262ec481) - Example using IA for technical writing.
 * [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Explores new policies around city revitalization.
 * [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - What do to with home chores?
