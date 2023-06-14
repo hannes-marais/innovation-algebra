@@ -21,6 +21,10 @@ If you are an entrepreneur, here is an [overview](swiss-army-knife-for-entrepren
 - [>>> Start chatting IA 2.2 <<<](https://chat.openai.com/share/977119a8-60ef-49d4-8a0f-4e0ae6ce9ff1)
 - [>>> Start chatting IA 2.1 <<<](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
 
+Under Development:
+
+- [>>> Start chatting IA 2.7 <<<](https://chat.openai.com/share/17fbf712-830e-4d63-81c7-32b58ea5ccfa) - Includes functions like CaseStudies, Insights, Assess, a more explicit planning logic, clearer representation. **Note**: Does not work on ChatGPT 3.5/Turbo.
+
 Instructions:
 
 * Click the above link to open a saved ChatGPT session with the IA prompt loaded.
