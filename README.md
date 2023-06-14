@@ -41,7 +41,7 @@ Happy to take improvement suggestions at [@HiDeeeps](https://twitter.com/HiDeeep
 
 ## Guru Mode (IA 2.5+)
 
-Since innovation frameworks are complex, IA 2.5 introducds Guru mode to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
+Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
 
 [View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
 
