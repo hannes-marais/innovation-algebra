@@ -40,32 +40,33 @@ Since innovation frameworks are complex, IA 2.5 introduces Guru mode to guide yo
 
 [View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
 
-🧠++🤖
+🧠 ++ 🤖
 
 ## Case Studies
 
-Innovating and solving real problems is .. **really complex**. 
+Innovating and solving real problems is .. **complex**. 
 
-IA aspires to solve real-world problems using AI. Hence IA is much more complex than the typical ChatGPT prompt. IA uses frameworks that you probably never heard of before. 
+IA aspires to solve real-world problems using AI. Hence IA is more complex than the typical ChatGPT prompt. Plus IA uses frameworks that you probably never heard of before. 
 
-The best way to get a feeling for how it can be used in practice is to read some case studies. 
+The best way to get a feeling for how IA can be used is the case studies. 
 
-* [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Using IA 2.6, explores policies around city revitalization.
-* [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - A fun one, what do to with home chores?
-* [A new type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - very long conversation about inventing a new type of light. Unfortunately ChatGPT ran out of context, so it gets confused towards the end. But it helps invents something new and interesting! Touches community building, privacy, human psychology. Read till the end for the reveal.
-* [Reintroducing animals into cities](https://chat.openai.com/share/b69dcf03-5a85-49e7-8277-cbe2d8c5815c) - Conservation, public policy, and regulations. Covers a myriad of issues in 22 parts, purely driven by Guru mode. (Runs out of context)
-* [Inspired by Nature](https://chat.openai.com/share/e13a6c67-5b2c-4d45-bcba-d889e3da943f) - long conversation developing many ideas related to smart agriculture, including a "smart plant".
-* [Smart cities via Guru mode](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725) (IA 2.5)
-* [Human Hibernation](https://chat.openai.com/share/c0ec7efe-f5a6-439a-a081-cadf3bc1482b) (IA 2.5)
-* [Idea generation with SCAMPER, Lotus Blossom, and related frameworks](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83) (IA 2.2)
-* [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
-* [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc) (IA 2.1)
+* [Using Metrics to Decide When to Abandon Your Startup](https://chat.openai.com/share/09c35144-6238-46ea-a037-9183262ec481) - Example using IA for technical writing.
+* [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Using IA 2.6, explores new policies around city revitalization.
+* [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - What do to with home chores? Create a startup?
+* [A New Type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - Inventing a new type of light. Unfortunately ChatGPT ran out of context. But it helps invents something new and interesting. Covers community building, privacy, human psychology. Read till the end for the reveal.
+* [Reintroducing Animals into Cities](https://chat.openai.com/share/b69dcf03-5a85-49e7-8277-cbe2d8c5815c) - Conservation, public policy, and regulations. Covers a myriad of issues in 22 parts. (Runs out of context)
+* [Inspired by Nature](https://chat.openai.com/share/e13a6c67-5b2c-4d45-bcba-d889e3da943f) - Develops several ideas related to smart agriculture, including a "smart plant".
+* [Smart cities](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725)
+* [Human Hibernation](https://chat.openai.com/share/c0ec7efe-f5a6-439a-a081-cadf3bc1482b)
+* [Idea generation using frameworks](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83)
+* [Startup Generation](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
+* [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
 
 Contributed:
 
 * [Dear Gabrielle](https://chat.openai.com/share/559ce73c-3e2d-441c-8699-65d204238aaf) - The advice column with AI-inspired wisdom (WIP). [Official site](https://deargabrielle.substack.com/p/ai-powered-relationship-advice-for-the-ai-age)
 
-If you have an interesting case study, please reach out to add it to the list.
+Please reach out to add yours to the list.
 
 ## Tips
 
