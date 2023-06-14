@@ -132,13 +132,13 @@ Please reach out to add yours to the list.
 
 19. **Kano Model** - A theory for product development and customer satisfaction. It classifies customer preferences into categories (basic, performance, excitement)
 
-... and severl more.
+... and several more.
 
 These frameworks can be used individually or in combination depending on the context and the nature of the problem you are trying to solve. The key is to encourage diverse thinking and to approach problems from different angles.
 
 ## FIRE meta-framework (IA 2.2+)
 
-IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to evaluate ideas using all the frameworks. So if you do not know how to proceed with evaluation/improvement, type `FIRE`, `FIRE | ++`.
+IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to evaluate ideas using all the frameworks. So if you do not know how to proceed with evaluation/improvement, type `FIRE`.
 
 ## IA Examples
 
