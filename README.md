@@ -61,7 +61,11 @@ The best way to get a feeling for how it can be used in practice is to read some
 * [Startup generation example](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc) (IA 2.1)
 
-If you have an interesting case study, please reach out to add it to our list.
+Contributed:
+
+* [Dear Gabrielle](https://chat.openai.com/share/559ce73c-3e2d-441c-8699-65d204238aaf) - Gabrielle, the advice column with AI-inspired wisdom (WIP). [Official site](https://deargabrielle.substack.com/p/ai-powered-relationship-advice-for-the-ai-age)
+
+If you have an interesting case study, please reach out to add it to the list.
 
 ## Tips
 
