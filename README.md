@@ -80,6 +80,10 @@ The best way to get a feeling for how IA can be used is the case studies.
 * [Startup Generation](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
 
+Generating GPT frameworks:
+
+* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - You can use IA to create GPT frameworks / Algebras for other domains. We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way.
+  
 Contributed:
 
 * [Dear Gabrielle](https://chat.openai.com/share/559ce73c-3e2d-441c-8699-65d204238aaf) - The advice column with AI-inspired wisdom (WIP). [Official site](https://deargabrielle.substack.com/p/ai-powered-relationship-advice-for-the-ai-age)
