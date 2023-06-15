@@ -37,8 +37,11 @@ Instructions:
 
 Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.6). 
 
-Happy to take improvement suggestions at [@HiDeeeps](https://twitter.com/HiDeeeps) or create a pull request.
+## Keep in touch with IA users
 
+* Interesting in updates, tips, events or tutorials? Join the [(Innovation Algebra Users Group](https://lu.ma/innovationalgebra).
+* Have suggestions? Ping [@HiDeeeps](https://twitter.com/HiDeeeps) or create a Git pull request.
+  
 ## Guru Mode (IA 2.5+)
 
 Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
