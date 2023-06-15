@@ -4,7 +4,7 @@
 
 **Meetup on June 23** - Join IA and other ChatGPT super-prompters to compare notes on their projects. [Event Details](https://lu.ma/xu3uczyt)
 
-# Innovation Algebra
+# Innovation Algebra for ChatGPT
 
 > "Innovation Algebra (IA) is like a Swiss Army knife for knowledge processing and innovation; it's a versatile tool that brings structure and clarity to the complex world of ideas, helping innovators and thinkers to systematically navigate and cultivate the landscape of possibilities."
 
