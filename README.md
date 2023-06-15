@@ -1,5 +1,9 @@
 ![Functions](IA.001.jpeg)
 
+# NEWSFLASH: NEW VIDEO TUTORIAL
+
+[![Innovation Algebra Introduction](http://img.youtube.com/vi/LacfSWb-JrY/0.jpg)](http://www.youtube.com/watch?v=LacfSWb-JrY "Innovation Algebra Introduction")
+
 # NEWSFLASH: MEETUP ON JUNE 23
 
 Join IA and other super-prompters developing frameworks on GPT to compare notes on their projects. **#GPTFramework**
@@ -55,10 +59,6 @@ Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide 
 [View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
 
 🧠 ++ 🤖
-
-## The IA Tutorial Video
-
-[![Innovation Algebra Introduction](http://img.youtube.com/vi/LacfSWb-JrY/0.jpg)](http://www.youtube.com/watch?v=LacfSWb-JrY "Innovation Algebra Introduction")
 
 ## Case Studies
 
