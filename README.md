@@ -56,7 +56,7 @@ Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide 
 
 🧠 ++ 🤖
 
-## The AI video
+## The IA Tutorial Video
 
 [![Innovation Algebra Introduction](http://img.youtube.com/vi/LacfSWb-JrY/0.jpg)](http://www.youtube.com/watch?v=LacfSWb-JrY "Innovation Algebra Introduction")
 
