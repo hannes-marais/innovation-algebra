@@ -1,5 +1,9 @@
 ![Brain](https://github.com/hannes-marais/innovation-algebra/blob/82cf2f6b3a4571c1dc7574995ab12582d8619ca4/Firefly%20the%20brain%20of%20a%20mathematician%20with%20formulas%20and%20connections%2048752.jpg)
 
+# NEWSFLASH
+
+**Meetup on June 23** - Join IA and other ChatGPT super-prompters to compare notes on their projects. [Event Details](https://lu.ma/xu3uczyt)
+
 # Innovation Algebra
 
 > "Innovation Algebra (IA) is like a Swiss Army knife for knowledge processing and innovation; it's a versatile tool that brings structure and clarity to the complex world of ideas, helping innovators and thinkers to systematically navigate and cultivate the landscape of possibilities."
