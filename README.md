@@ -82,7 +82,7 @@ The best way to get a feeling for how IA can be used is the case studies.
 
 Generating GPT frameworks:
 
-* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - You can use IA to create GPT frameworks / Algebras for other domains. We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way.
+* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - You can use IA to create GPT frameworks / Algebras for other domains. We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way. Needs a lot of tweaking, please share your improvements.
   
 Contributed:
 
