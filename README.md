@@ -39,7 +39,7 @@ Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.6).
 
 ## Keep in touch with IA users
 
-* Interesting in updates, tips, events or tutorials? Join the [(Innovation Algebra Users Group](https://lu.ma/innovationalgebra).
+* Interesting in updates, tips, events or tutorials? Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra).
 * Have suggestions? Ping [@HiDeeeps](https://twitter.com/HiDeeeps) or create a Git pull request.
   
 ## Guru Mode (IA 2.5+)
