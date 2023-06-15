@@ -4,6 +4,8 @@
 
 [![Innovation Algebra Introduction](http://img.youtube.com/vi/LacfSWb-JrY/0.jpg)](http://www.youtube.com/watch?v=LacfSWb-JrY "Innovation Algebra Introduction")
 
+[Slide PDF](IA-slides-june-2023.pdf)
+
 # NEWSFLASH: MEETUP ON JUNE 23
 
 Join IA and other super-prompters developing frameworks on GPT to compare notes on their projects. **#GPTFramework**
