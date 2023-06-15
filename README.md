@@ -2,7 +2,7 @@
 
 # NEWSFLASH: MEETUP ON JUNE 23
 
-Join IA and other super-prompters developing frameworks on GPT to compare notes on their projects. #GPTFramework 
+Join IA and other super-prompters developing frameworks on GPT to compare notes on their projects. **#GPTFramework**
 
 [Event Signup](https://lu.ma/xu3uczyt)
 
