@@ -201,17 +201,17 @@ IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way
 
 ## Consulting Services
 
-You might be overwhelmed with all the possibilities of Innovation Algebra. Or not sure where to start with your problem. Or maybe you are interested in how to introduce IA in your organization. Or you need IA tailored/extended for specific business use cases, for example risk management, business process model improvements, specialized educational content, etc.  
+IA is free to everyone. However, you might be overwhelmed with all the possibilities of Innovation Algebra. Or not sure where to start with your problem. Or maybe you are interested in how to introduce IA in your organization. Or you need IA tailored/extended for specific business use cases, for example risk management, business process model improvements, specialized educational content, etc.  
 
-If you need specialized help, please reach out to Hannes Marais ([LinkedIn](https://www.linkedin.com/in/hannesmarais/)) for a 1-on-1 pair-innovation with IA meeting. If I cannot help you, I can possibly refer you to someone else with appropriate expertise.
+If you need specialized help, please reach out to Hannes Marais ([LinkedIn](https://www.linkedin.com/in/hannesmarais/)) for a 1-on-1 pair-innovation session. If I cannot help you, I can possibly refer you to someone else with appropriate expertise.
 
 ## Citing IA
 
-I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so please feel free to not cite IA. 
+IA is powerful and can automate a lot. So I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so please feel free to not cite IA. 
 
 However, I do appreciate feedback and success stories from the innovation trenches. Reach out via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps) or [LinkedIn](https://www.linkedin.com/in/hannesmarais/).
 
-Keep innovating! Hannes MARAIS
+Keep on innovating! Hannes MARAIS
 
 
 
