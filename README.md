@@ -74,7 +74,6 @@ The best way to get a feeling for how IA can be used is the case studies.
 * [Synthetic Cells](https://chat.openai.com/share/b84db000-83af-467f-8796-08d6baa853aa) - IA 2.7 allows you to explore the knowledge frontier of science. Pick the topic example.
 * [Using Metrics to Decide When to Abandon Your Startup](https://chat.openai.com/share/09c35144-6238-46ea-a037-9183262ec481) - Example using IA for technical writing.
 * [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Explores new policies around city revitalization.
-* [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - What do to with home chores?
 * [A New Type of Light](https://chat.openai.com/share/ab609f60-9f6f-407e-b6af-f7ac1b4f8397) - Inventing a new type of light. Unfortunately ChatGPT ran out of context. But it helps invents something new and interesting. Covers community building, privacy, human psychology. Read till the end for the reveal.
 * [Reintroducing Animals into Cities](https://chat.openai.com/share/b69dcf03-5a85-49e7-8277-cbe2d8c5815c) - Conservation, public policy, and regulations. Covers a myriad of issues in 22 parts. (Runs out of context)
 * [Grid-scale Energy Storage, Role of Regulatory Sandboxes](https://chat.openai.com/share/a25cd877-e800-4adb-a45e-14b4b1684089) - Energy policy; used design thinking, TRIZ, pareto principle, technical writing. 
@@ -85,20 +84,25 @@ The best way to get a feeling for how IA can be used is the case studies.
 * [Idea generation using frameworks](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83)
 * [Startup Generation](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
+* [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - What do to with home chores?
 
-Generating GPT frameworks:
-
-* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - You can use IA to create GPT frameworks / Algebras for other domains. We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way. Needs a lot of tweaking, please share your improvements.
-  
 Contributed:
 
 * [Dear Gabrielle](https://chat.openai.com/share/559ce73c-3e2d-441c-8699-65d204238aaf) - The advice column with AI-inspired wisdom (WIP). [Official site](https://deargabrielle.substack.com/p/ai-powered-relationship-advice-for-the-ai-age)
 
+Please reach out to add yours to the list.
+
+## Advanced: Generating new GPT frameworks
+
+Developing GPT frameworks / algebras for other domains:
+
+* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way. Needs a lot of tweaking, please share your improvements.
+  
 Related GPT Framework (using similar ideas as IA):
 
 * [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework.
   
-Please reach out to add yours to the list.
+
 
 ## Tips
 
