@@ -44,7 +44,8 @@ Instructions:
 
 ## The ChatGPT Prompt
 
-Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.7). 
+* Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.7).
+* IA 2.6+ is powerful enough to evolve itself and make suggestions for its own improvement. For example, IA 2.7 was mostly designed with the help of IA 2.6. If you discover that your problem is too complicated for IA, I suggest that you ask it to design additional functions and frameworks, which you can immediately use. Please share your IA discoveries so that other innovators and researchers can also benefit.
 
 ## Keep in touch with IA users
 
