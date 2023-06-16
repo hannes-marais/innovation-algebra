@@ -1,7 +1,7 @@
 # Light Pollution 2.7
 
 
-[ `Use Innovation Algebra` ]
+[ `Start of conversation between user and Innovation Algebra (IA)` ]
 
 ---
 `06/16/2023 17:14 PM`
