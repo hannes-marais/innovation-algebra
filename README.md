@@ -201,7 +201,7 @@ IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way
 
 ## Consulting Services
 
-IA is free to everyone. However, you might be overwhelmed with all the possibilities of Innovation Algebra. Or not sure where to start with your problem. Or maybe you are interested in how to introduce IA in your organization. Or you need IA tailored/extended for specific business use cases, for example risk management, business process model improvements, specialized educational content, etc.  
+IA is free to everyone. However, you might be overwhelmed with all the possibilities of Innovation Algebra. Or not sure where to start with your problem. Or maybe you are interested in how to introduce IA in your organization. Or you need IA tailored/extended for specific business use cases, for example {X} management, business process model improvements, specialized educational content, etc.  
 
 If you need specialized help, please reach out to Hannes Marais ([LinkedIn](https://www.linkedin.com/in/hannesmarais/)) for a 1-on-1 pair-innovation session. If I cannot help you, I can possibly refer you to someone else with appropriate expertise.
 
