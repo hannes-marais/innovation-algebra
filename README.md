@@ -73,7 +73,7 @@ IA aspires to solve real-world problems using AI. Hence IA is more complex than 
 
 The best way to get a feeling for how IA can be used is the case studies. 
 
-* [Experiments in Reducing Light Polllution](https://chat.openai.com/share/be68ea33-349c-4f86-ab5a-432178cef20e) - Uses IA 2.7, which is able to design experiments.
+* [Experiments in Reducing Light Polllution](casestudies/light-pollution.md) - Uses IA 2.7, which is able to design experiments.
 * [The Polluter Pay Princple in India](https://chat.openai.com/share/fbfb541e-1a89-49fa-b94f-3f76d7af59bb) - Analysis of India's oil pollution liabilities compared to international conventions. This case study is interesting because it applies the Venture Capitalist Perspective, Cross-Domain Analysis, Case-Based Analysis, TRIZ Analysis, which is not normally used in this contexn. In addition, most interestingly, IA also extends its own functionality to address weaknesses.
 * [Noise Pollution II](https://chat.openai.com/share/fa063ea6-89f3-4aef-a538-500a1409577a) - Preview of IA 2.7 (under testing), with strategy and addition functions like case studies, insights, etc. This very representive of the state-of-the-art for IA.  IA 2.7 does much better than the previous version, compare with Noise Pollution I.
 * [Synthetic Cells](https://chat.openai.com/share/b84db000-83af-467f-8796-08d6baa853aa) - IA 2.7 allows you to explore the knowledge frontier of science. Pick the topic example.
