@@ -29,14 +29,11 @@ Innovation Algebra operating within ChatGPT offers a blend of structure and flex
 
 ## Get Started Now
 
+- [>>> Start chatting IA 2.7 <<<](https://chat.openai.com/share/c7fb98e7-2334-4008-8714-a6a2191052cb)
 - [>>> Start chatting IA 2.6 <<<](https://chat.openai.com/share/8d15d103-52fe-468c-bde9-e35d4256d519)
 - [>>> Start chatting IA 2.5 <<<](https://chat.openai.com/share/655ced1d-63d9-4ef8-93e1-a93074b655e7)
 - [>>> Start chatting IA 2.2 <<<](https://chat.openai.com/share/977119a8-60ef-49d4-8a0f-4e0ae6ce9ff1)
 - [>>> Start chatting IA 2.1 <<<](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
-
-Under Development:
-
-- [>>> Start chatting IA 2.7 <<<](https://chat.openai.com/share/17fbf712-830e-4d63-81c7-32b58ea5ccfa) - Includes functions like CaseStudies, Insights, Assess, a more explicit planning logic, clearer representation. **Note**: Does not work on ChatGPT 3.5/Turbo.
 
 Instructions:
 
@@ -60,6 +57,9 @@ Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide 
 
 [View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
 
+* IA 2.7 introduces the Mentor, which observes the IA sessions. You can ask it for feedback, but in general it just observes. See the case study on light pollution below.
+
+
 🧠 ++ 🤖
 
 ## Case Studies
@@ -70,6 +70,7 @@ IA aspires to solve real-world problems using AI. Hence IA is more complex than 
 
 The best way to get a feeling for how IA can be used is the case studies. 
 
+* [Experiments in Reducing Light Polllution](https://chat.openai.com/share/be68ea33-349c-4f86-ab5a-432178cef20e) - Uses IA 2.7, which is able to design experiments.
 * [The Polluter Pay Princple in India](https://chat.openai.com/share/fbfb541e-1a89-49fa-b94f-3f76d7af59bb) - Analysis of India's oil pollution liabilities compared to international conventions. This case study is interesting because it applies the Venture Capitalist Perspective, Cross-Domain Analysis, Case-Based Analysis, TRIZ Analysis, which is not normally used in this contexn. In addition, most interestingly, IA also extends its own functionality to address weaknesses.
 * [Noise Pollution II](https://chat.openai.com/share/fa063ea6-89f3-4aef-a538-500a1409577a) - Preview of IA 2.7 (under testing), with strategy and addition functions like case studies, insights, etc. This very representive of the state-of-the-art for IA.  IA 2.7 does much better than the previous version, compare with Noise Pollution I.
 * [Synthetic Cells](https://chat.openai.com/share/b84db000-83af-467f-8796-08d6baa853aa) - IA 2.7 allows you to explore the knowledge frontier of science. Pick the topic example.
