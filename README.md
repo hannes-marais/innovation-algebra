@@ -104,16 +104,7 @@ Please reach out to add yours to the list.
 * My suggestion is to keep a list of the frameworks handy (see below). Try the frameworks and see what they do. You don't need to be an expert to use them.
 * IA conversations can get very long, very quickly. At some point, ChatGPT runs out of 'memory', and its IQ drops like 50 points. 
 * I highly recommend ChatGPT Plus (paid) using GPT 4. As of 6/14/2023, Chat GPT 3.5 (turbo) has problems following IA's complicated logic.
-  
-## Advanced: Generating new GPT frameworks
 
-Developing GPT frameworks / algebras for other domains:
-
-* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way. Needs a lot of tweaking, please share your improvements.
-  
-Related GPT Framework (using similar ideas as IA):
-
-* [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework.
   
 ## Supported Innovation Frameworks (IA 2.2+)
 
@@ -203,6 +194,16 @@ IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way
     
 [More Examples](examples.md)
 
+## Advanced: Generating new GPT frameworks
+
+Developing GPT frameworks / algebras for other domains:
+
+* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way. Needs a lot of tweaking, please share your improvements.
+  
+Related GPT Framework (using similar ideas as IA):
+
+* [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework.
+  
 ## Consulting Services
 
 IA is free to everyone. However, you might be overwhelmed with all the possibilities of Innovation Algebra. Or not sure where to start with your problem. Or maybe you are interested in how to introduce IA in your organization. Or you need IA tailored/extended for specific business use cases, for example {X} management, business process model improvements, specialized educational content, etc.  
