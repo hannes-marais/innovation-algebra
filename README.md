@@ -46,7 +46,7 @@ Instructions:
 
 * Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.7).
 * IA 2.6+ is powerful enough to evolve itself and make suggestions for its own improvement. For example, IA 2.7 was mostly designed with the help of IA 2.6. If you discover that your problem is too complicated for IA, I suggest that you ask it to design additional functions and frameworks, which you can immediately use. Please share your IA discoveries so that other innovators and researchers can also benefit.
-* The complexity of IA now has out-growned GPT 3.5, and my work is now just focusing on GPT 4. I know it leaves a lot of folks behind, so effort to make it work on GPT 3.5 is appreciated.
+* The complexity of IA now has out-grown GPT 3.5, and my work is now just focusing on GPT 4. I know it leaves a lot of folks behind, so effort to make it work on GPT 3.5 is appreciated.
 * You will likely run into usage limits of GPT-4 since IA tends to create long and interesting sessions. Currently there is no work-around for this.
 
 ## Keep in touch with IA users
