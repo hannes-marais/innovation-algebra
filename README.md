@@ -94,6 +94,10 @@ Contributed:
 
 * [Dear Gabrielle](https://chat.openai.com/share/559ce73c-3e2d-441c-8699-65d204238aaf) - The advice column with AI-inspired wisdom (WIP). [Official site](https://deargabrielle.substack.com/p/ai-powered-relationship-advice-for-the-ai-age)
 
+Related GPT Framework (using similar ideas as IA):
+
+* [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework.
+  
 Please reach out to add yours to the list.
 
 ## Tips
