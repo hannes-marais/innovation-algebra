@@ -44,7 +44,7 @@ Instructions:
 
 ## The ChatGPT Prompt
 
-Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.6). 
+Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.7). 
 
 ## Keep in touch with IA users
 
