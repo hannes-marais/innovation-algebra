@@ -92,18 +92,6 @@ Contributed:
 
 Please reach out to add yours to the list.
 
-## Advanced: Generating new GPT frameworks
-
-Developing GPT frameworks / algebras for other domains:
-
-* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way. Needs a lot of tweaking, please share your improvements.
-  
-Related GPT Framework (using similar ideas as IA):
-
-* [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework.
-  
-
-
 ## Tips
 
 * Needless to say, you need to have a basic knowledge of [ChatGPT](https://chat.openai.com/) and what a prompt is.
@@ -116,9 +104,17 @@ Related GPT Framework (using similar ideas as IA):
 * My suggestion is to keep a list of the frameworks handy (see below). Try the frameworks and see what they do. You don't need to be an expert to use them.
 * IA conversations can get very long, very quickly. At some point, ChatGPT runs out of 'memory', and its IQ drops like 50 points. 
 * I highly recommend ChatGPT Plus (paid) using GPT 4. As of 6/14/2023, Chat GPT 3.5 (turbo) has problems following IA's complicated logic.
+  
+## Advanced: Generating new GPT frameworks
 
+Developing GPT frameworks / algebras for other domains:
 
+* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way. Needs a lot of tweaking, please share your improvements.
+  
+Related GPT Framework (using similar ideas as IA):
 
+* [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework.
+  
 ## Supported Innovation Frameworks (IA 2.2+)
 
 1. **SCAMPER** - It stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. It's a brainstorming tool used to improve products or services. For example, you can substitute a component of a product with something else, combine it with another product, or adapt it for a different use.
