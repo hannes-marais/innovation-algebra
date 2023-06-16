@@ -41,21 +41,21 @@ Proceed?
 
 ---
 
-[S1. Light Pollution Knowledge]
+**[S1. Light Pollution Knowledge]**
 Light pollution is a phenomenon where excessive or misdirected artificial light interferes with the natural darkness of the night sky. This can have adverse effects on human health, wildlife, and the ability to observe celestial objects. Common sources include streetlights, advertising billboards, and exterior building lights.
 
-[S2. Urban Lighting Trends]
+**[S2. Urban Lighting Trends]**
 1. **LED Adoption**: Many cities are transitioning to LED lights, which can be more energy-efficient and have adjustable brightness levels.
 2. **Smart Lighting Systems**: Adoption of IoT technologies for managing city lighting intelligently, including dimming lights when not needed.
 3. **Lighting Design Improvements**: Utilizing fixtures that reduce light spill and direct light downward to reduce skyglow.
 4. **Public Awareness**: Growing public awareness campaigns and policies for reducing light pollution.
 
-[S3. Knowledge Frontier in Light Pollution Mitigation]
+**[S3. Knowledge Frontier in Light Pollution Mitigation]**
 1. **Adaptive Street Lighting**: Using sensors and AI to adapt street lighting based on traffic and pedestrian presence.
 2. **Spectral Tuning of LEDs**: Adjusting the spectral output of LED lights to minimize blue light, which contributes more to light pollution.
 3. **Dark Sky Preserves**: Creating areas in or near cities where lighting is strictly controlled to preserve the natural night sky.
 
-[S4. Constraint Optimization for Light Pollution Reduction]
+**[S4. Constraint Optimization for Light Pollution Reduction]**
 Constraints:
 1. **Budget Constraints**: Cities might have limited budgets for overhauling lighting systems.
 2. **Safety Concerns**: Reducing lighting might raise concerns about safety and security.
@@ -66,7 +66,7 @@ Optimizations:
 2. **Community Engagement**: Educating the public on the benefits of reducing light pollution.
 3. **Data-Driven Decision Making**: Using data to optimize lighting without compromising safety.
 
-[S5. Virtual Experiment Design for Light Pollution Reduction]
+**[S5. Virtual Experiment Design for Light Pollution Reduction]**
 **Experiment Name**: Adaptive Urban Lighting for Light Pollution Reduction
 
 **Objective**: To evaluate the effectiveness of adaptive urban lighting in reducing light pollution without compromising public safety.
@@ -123,21 +123,21 @@ Proceed?
 
 ---
 
-[S6. Insights into Adaptive Urban Lighting for Light Pollution Reduction]
+**[S6. Insights into Adaptive Urban Lighting for Light Pollution Reduction]**
 1. Implementing adaptive urban lighting that adjusts brightness based on the time of night and human activity can not only reduce light pollution but also contribute to energy conservation, making it a sustainable solution for cities.
 2. Ensuring public safety while reducing light pollution could be achieved through intelligent systems that detect human presence and adjust lighting accordingly.
 3. Engaging with local communities and stakeholders in the design and implementation of adaptive urban lighting is critical for its success, as it creates ownership and addresses concerns around safety and aesthetics.
 4. The integration of renewable energy sources such as solar power in adaptive lighting systems can further contribute to sustainability and independence from the electrical grid.
 5. Incorporating data analytics and machine learning in adaptive urban lighting could enhance the prediction and management of lighting levels based on historical data and patterns of human activity.
 
-[S7. Evaluation of the Virtual Experiment Design]
+**[S7. Evaluation of the Virtual Experiment Design]**
 | Category    | Score (1-10) | Feedback                                  |
 |-------------|--------------|-------------------------------------------|
 | Novelty     | 8            | The experiment is innovative but builds on existing technologies. |
 | Practicality | 7            | The implementation requires careful planning, community engagement, and integration with existing infrastructure. |
 | Scalability | 9            | Adaptive urban lighting can be effectively scaled to different city sizes and types of urban areas. |
 
-[S8. Related Domains to Light Pollution Reduction]
+**[S8. Related Domains to Light Pollution Reduction]**
 1. Smart City Technologies
 2. Renewable Energy Integration
 3. Environmental Psychology
@@ -147,14 +147,14 @@ Proceed?
 7. Urban Planning and Design
 8. Wildlife Conservation
 
-[S9. Cross-Pollinated Innovative Solutions]
+**[S9. Cross-Pollinated Innovative Solutions]**
 1. Integration of Smart City Technologies: Incorporate smart city technologies to create a centralized control system for adaptive urban lighting, which can be integrated with other city services.
 2. IoT-Powered Lighting: Utilize IoT and sensor networks to accurately detect human and vehicular activity and adjust lighting levels in real-time.
 3. Public Health Monitoring: Study the impact of reduced light pollution on public health and sleep patterns.
 4. Environmental Psychology Informed Design: Utilize principles from environmental psychology to design lighting that minimizes light pollution while creating spaces that are perceived as safe and comfortable.
 5. Wildlife-friendly Lighting: Develop adaptive lighting solutions that take into consideration the needs of wildlife, particularly nocturnal species, and minimize disruption to their habitats.
 
-[S10. Title for Enhanced Experiment Design]
+**[S10. Title for Enhanced Experiment Design]**
 "CityLights: Harnessing Smart Technologies for Adaptive Urban Lighting in a Quest to Dim the Sky"
 
 IA is ready to innovate and solve your problems. What are your goals?
@@ -192,33 +192,33 @@ Proceed?
 
 ---
 
-[S11. Design Thinking for Light Pollution Reduction]
+**[S11. Design Thinking for Light Pollution Reduction]**
 1. **Empathize**: Engage with communities, local authorities, astronomers, and environmentalists to understand the issues related to light pollution and its effects on people, wildlife, and science.
 2. **Define**: Articulate the core problems that need to be addressed, such as the wastage of energy, impact on nocturnal wildlife, human health, and hindrance to astronomical observations.
 3. **Ideate**: Brainstorm solutions, including adaptive urban lighting, IoT-powered systems, renewable energy integration, and community engagement programs.
 4. **Prototype**: Develop small-scale versions of the adaptive lighting systems with smart controls and test them in selected areas to evaluate their efficacy.
 5. **Test & Iterate**: Collect feedback, analyze data, and iteratively refine the lighting solutions based on the outcomes and feedback received.
 
-[S12. Knowledge Frontier in Smart City Technologies]
+**[S12. Knowledge Frontier in Smart City Technologies]**
 1. **Intelligent Traffic Management Systems**: Using AI and IoT for real-time traffic control, reducing congestion and emissions.
 2. **Smart Waste Management**: IoT-based sensors in waste bins to optimize collection routes and schedules.
 3. **Blockchain for Secure Transactions**: Utilizing blockchain for secure and transparent transactions within city services.
 4. **5G Connectivity**: Implementation of 5G networks to ensure high-speed connectivity across the city.
 5. **Smart Grids for Energy Management**: Intelligent electricity grids that optimize energy distribution and consumption.
 
-[S13. Synergy Map of Innovative Solutions for Light Pollution Reduction]
+**[S13. Synergy Map of Innovative Solutions for Light Pollution Reduction]**
 1. **Adaptive Urban Lighting + IoT-Powered Lighting**: Combine adaptive lighting with IoT sensors for real-time brightness adjustments based on activity levels.
 2. **Smart City Technologies + Public Health Monitoring**: Integrate health monitoring with smart city data to analyze the impact of lighting changes on public health.
 3. **Environmental Psychology Informed Design + Wildlife-friendly Lighting**: Design lighting that is both human-friendly and wildlife-friendly by considering psychological and ecological factors.
 4. **Renewable Energy Integration + Smart Grids for Energy Management**: Integrate renewable energy sources into adaptive lighting systems and connect them to smart grids for optimized energy management.
 
-[S14. Startups in Light Pollution Reduction Technologies]
+**[S14. Startups in Light Pollution Reduction Technologies]**
 1. **NightSense**: Develops adaptive street lighting systems that adjust brightness and color temperature based on time and activity.
 2. **StarSaver**: Focuses on astronomical-friendly lighting solutions for cities near observatories.
 3. **EcoLight**: Creates wildlife-friendly lighting systems that minimize disruption to nocturnal animals’ habitats.
 4. **LumiCity**: Provides urban planning services and smart city technologies for integrated, energy-efficient urban lighting.
 
-[S15. Title for Comprehensive Light Pollution Reduction Plan]
+**[S15. Title for Comprehensive Light Pollution Reduction Plan]**
 "NightSky Guardian: An Integrated, Human-Centered Approach to Urban Lighting for a Brighter Sky and a Sustainable Future"
 
 IA is ready to innovate and solve your problems. What are your goals?
@@ -247,22 +247,22 @@ Proceed?
 
 ---
 
-[S16. Insights for Light Pollution Reduction]
+**[S16. Insights for Light Pollution Reduction]**
 1. Transitioning to LED streetlights with adaptive controls can reduce energy consumption and light pollution.
 2. Establishing "Dark Sky Parks" within cities can create awareness about the value of natural darkness and promote responsible outdoor lighting.
 3. Community engagement through citizen science programs can help in collecting data and spreading awareness about light pollution.
 
-[S17. Constraint Optimization for Light Pollution Reduction]
+**[S17. Constraint Optimization for Light Pollution Reduction]**
 1. **Constraint**: Public safety concerns due to reduced lighting.
    **Optimization**: Use adaptive lighting that adjusts to human presence, maintaining adequate lighting levels without excess brightness.
 2. **Constraint**: Costs of replacing existing streetlights.
    **Optimization**: Implement incentive programs or subsidies for adopting energy-efficient and dark-sky friendly lighting.
 
-[S18. Idea Cross-Pollination with Renewable Energy]
+**[S18. Idea Cross-Pollination with Renewable Energy]**
 1. **Solar-Powered Streetlights**: Use solar panels to power adaptive LED streetlights, reducing dependency on non-renewable energy sources and decreasing light pollution.
 2. **Wind Energy for Public Lighting**: Integrate small wind turbines with streetlights to provide an alternative renewable energy source, particularly effective in windy cities.
 
-[S19. Virtual Experiment: Implementing Anti-Light Pollution Measures]
+**[S19. Virtual Experiment: Implementing Anti-Light Pollution Measures]**
 1. **Objective**: To evaluate the effectiveness of adaptive LED streetlights in reducing light pollution.
 2. **Methodology**: 
     - Select two similar neighborhoods, one as the control group with standard streetlights, and the other as the test group with adaptive LED streetlights.
@@ -272,7 +272,7 @@ Proceed?
     - Survey residents regarding their perception of changes in lighting.
 3. **Expected Outcome**: A significant reduction in light pollution levels in the test group, with positive feedback from residents regarding the new lighting system.
 
-[S20. Scoring Light Pollution Reduction Measures]
+**[S20. Scoring Light Pollution Reduction Measures]**
 | Measure                           | Practicality | Efficiency | Sustainability |
 |-----------------------------------|--------------|------------|----------------|
 | Adaptive LED Streetlights         | 9            | 9          | 10             |
@@ -316,7 +316,7 @@ Proceed?
 
 ---
 
-[S7. Stakeholder Analysis]
+**[S7. Stakeholder Analysis]**
 Key stakeholders involved in light pollution reduction in major US cities:
 
 | Stakeholder Group | Role/Interest in Light Pollution Reduction |
@@ -330,7 +330,7 @@ Key stakeholders involved in light pollution reduction in major US cities:
 | Tourist Industry  | Interest in promoting darker skies as tourist attractions |
 | Manufacturers of Streetlights | Supply and develop lighting solutions |
 
-[S8. Points of View on Adaptive LED Streetlights]
+**[S8. Points of View on Adaptive LED Streetlights]**
 Expert perspectives on the use of adaptive LED streetlights in cities:
 
 | Expert        | Point of View |
@@ -339,7 +339,7 @@ Expert perspectives on the use of adaptive LED streetlights in cities:
 | Astronomer    | "While adaptive LED streetlights are better than traditional ones, it is vital to ensure they are properly shielded and used at the lowest necessary brightness to minimize light pollution." |
 | Utility Company Exec | "The adaptive nature of these streetlights can help in reducing operational costs, but the initial investment is significant." |
 
-[S9. JTBD Framework for Light Pollution Reduction]
+**[S9. JTBD Framework for Light Pollution Reduction]**
 Jobs to be Done for stakeholders in light pollution reduction:
 
 | Job Category | Jobs to be Done |
@@ -348,7 +348,7 @@ Jobs to be Done for stakeholders in light pollution reduction:
 | Social       | - Foster community involvement in light pollution reduction initiatives<br>- Build a positive image for the city as environmentally conscious |
 | Emotional    | - Increase residents’ sense of well-being and connection to nature<br>- Provide astronomers with a sense of accomplishment in their advocacy |
 
-[S10. Scenario Modeling on Light Pollution Policies]
+**[S10. Scenario Modeling on Light Pollution Policies]**
 Historical trends and possible future scenarios related to light pollution policies in major US cities:
 
 | Historical Trend | Possible Future Scenario |
@@ -356,7 +356,7 @@ Historical trends and possible future scenarios related to light pollution polic
 | Increase in the adoption of dark-sky ordinances | Cities could have more stringent policies regulating outdoor lighting, especially in new developments |
 | Growing awareness of the environmental impact of light pollution | Community-driven initiatives might become more prevalent, and there could be stronger collaboration between NGOs and local governments |
 
-[S11. Board of Advisors]
+**[S11. Board of Advisors]**
 Board of Advisors for Light Pollution Reduction:
 
 1. **Megan O'Connor**, Urban Planner: Specializes in sustainable urban development and has experience in integrating adaptive lighting solutions in city planning.
@@ -374,7 +374,7 @@ The board of advisors is ready to provide feedback and answer questions regardin
 
 ---
 
-[S12. Feedback from Board of Advisors]
+**[S12. Feedback from Board of Advisors]**
 
 1. **Megan O'Connor (Urban Planner)**:
    - "The plan's focus on adaptive LED streetlights is a promising step. However, it's important to address residents' concerns and engage them in the planning process. The policies should also consider the aesthetic aspects and ensure that the city's character is preserved."
@@ -413,7 +413,7 @@ Proceed?
 
 ---
 
-[S13. Distilled Feedback]
+**[S13. Distilled Feedback]**
 
 Based on the feedback from the Board of Advisors, here are the distilled key recommendations:
 - Engage residents and address their concerns throughout the planning process.
@@ -424,7 +424,7 @@ Based on the feedback from the Board of Advisors, here are the distilled key rec
 - Ensure the cost-effectiveness of the plan by justifying upfront costs through long-term savings.
 - Collaborate with manufacturers for more efficient lighting technologies.
 
-[S14. Improvements to the Original Plan]
+**[S14. Improvements to the Original Plan]**
 
 Categories | Improvements
 ---|---
@@ -432,7 +432,7 @@ Practicality | Collaborate with manufacturers to develop and adopt more efficien
 Community Engagement | Enhance community involvement by hosting more events, town halls, and educational sessions. Ensure transparent communication and address residents' concerns and opinions.
 Scientific Accuracy | Partner with local observatories and use specialized equipment to measure the brightness of the night sky. This will allow for more accurate assessments of the plan's impact on light pollution.
 
-[S15. Integrated Light Pollution Reduction Plan]
+**[S15. Integrated Light Pollution Reduction Plan]**
 
 1. Upgrade streetlights to adaptive LED systems with dimming capabilities.
 2. Implement strict regulations on the brightness and directionality of outdoor lights.
@@ -443,14 +443,14 @@ Scientific Accuracy | Partner with local observatories and use specialized equip
 7. Assess the plan’s impact through energy savings, resident satisfaction, and night sky brightness measurements.
 8. Iterate and make necessary adjustments based on the assessments and feedback.
 
-[S16. Knowledge Frontier]
+**[S16. Knowledge Frontier]**
 
 Cutting-edge developments in light pollution reduction techniques include:
 - Smart city integration with IoT-enabled streetlights for real-time control and monitoring.
 - Development of light shielding materials that prevent upward light spillage.
 - Advanced sensors for more precise dimming and brightness adjustments based on traffic and weather conditions.
 
-[S17. Title of the Enhanced Plan]
+**[S17. Title of the Enhanced Plan]**
 
 "Night Skies for All: A Community-Centric, Data-Driven Approach to Reducing Light Pollution in Major US Cities"
 
@@ -461,7 +461,7 @@ The enhanced plan integrates the feedback from the Board of Advisors and aligns 
 
 ---
 
-[S18. Assessment of Novel Aspects]
+**[S18. Assessment of Novel Aspects]**
 
 During this IA session, the following novel aspects have been discovered that are at the knowledge frontier:
 
@@ -482,7 +482,7 @@ To my knowledge, as of September 2021, these aspects are novel. However, I am no
 
 ---
 
-[S19. Designing Experiments for Light Pollution Reduction]
+**[S19. Designing Experiments for Light Pollution Reduction]**
 
 For the effective implementation and evaluation of the "Night Skies for All" light pollution reduction plan, it's essential to conduct a series of experiments. Here are the experiments designed to assess the effectiveness of different strategies in the plan:
 
@@ -533,7 +533,7 @@ For all experiments, it's essential to have control groups or areas where no int
 
 ---
 
-[S20. Guru Mode - Planning Step for Enhancing Experiments Design]
+**[S20. Guru Mode - Planning Step for Enhancing Experiments Design]**
 
 To enhance the experiments' design, we can refine it by adding more details on the control groups, integrating interdisciplinary expertise, and considering scalability. My function pipeline plan is as follows:
 
@@ -553,7 +553,7 @@ Proceed?
 
 ---
 
-[S21. Enhancing Experiments Design]
+**[S21. Enhancing Experiments Design]**
 
 1. Details on Control Groups:
    For the experiments on decreasing light pollution, control groups should be selected in a way that represents different facets of the city’s population and infrastructure. Control groups can include neighborhoods with different socio-economic statuses, various types of street lighting, and different levels of existing light pollution. By establishing control groups, the data collected will offer a baseline to measure the effectiveness of the interventions implemented in the experimental groups.
@@ -577,7 +577,7 @@ These enhanced experimental designs, with the integration of control groups, int
 
 ---
 
-[S22. Feedback from Advisors]
+**[S22. Feedback from Advisors]**
 
 1. **Dr. Clara Rodriguez (Urban Planner)**:
    "I think the experimental design can benefit from incorporating principles of smart urban planning. Incorporating data-driven methods for evaluating the light requirements in different areas and assessing the urban landscape for more efficient light placement could be pivotal."
@@ -594,7 +594,7 @@ These enhanced experimental designs, with the integration of control groups, int
 5. **Mrs. Rebecca Smith (Community Leader)**:
    "Involving community members in the experiment design and decision-making is important. Educating residents about the benefits of reduced light pollution and obtaining their feedback on proposed interventions can facilitate smoother implementation."
 
-[S23. Feedback from the Mentor]
+**[S23. Feedback from the Mentor]**
 
 "Mentor's Perspective":
 "You've done a good job incorporating feedback from various experts in enhancing the experimental design. However, it's essential to ensure that the experiments also include clear success metrics and evaluation criteria to effectively measure outcomes. Additionally, considering the financial feasibility and sourcing funding for these experiments will be critical for practical implementation."
@@ -604,7 +604,7 @@ These enhanced experimental designs, with the integration of control groups, int
 
 ---
 
-[S24. Guru Mode - Enhancing Experiments with Metrics and Financial Feasibility]
+**[S24. Guru Mode - Enhancing Experiments with Metrics and Financial Feasibility]**
 
 In light of the feedback from the advisors and the mentor, here’s an enhanced plan that incorporates success metrics, evaluation criteria, and considerations for financial feasibility:
 
@@ -631,7 +631,7 @@ By incorporating these enhanced elements into the experimental design, the exper
 
 ---
 
-[S25. Cost-Benefit Analysis for Light Pollution Reduction Experiments]
+**[S25. Cost-Benefit Analysis for Light Pollution Reduction Experiments]**
 
 Cost-benefit analysis is an economic technique for assessing the viability of a project or policy. It involves comparing the costs associated with the implementation of a project against the expected benefits. Here’s a simplified cost-benefit analysis for the light pollution reduction experiments in major US cities:
 
@@ -707,7 +707,7 @@ Proceed?
 
 ---
 
-[S26. Enhanced Cost-Benefit Analysis]
+**[S26. Enhanced Cost-Benefit Analysis]**
 
 **1. Constraint Optimization:**
 
@@ -776,19 +776,19 @@ Light pollution is a pervasive issue that impacts our environment, health, and a
 
 ---
 
-[S1. A City Planner's Perspective]
+**[S1. A City Planner's Perspective]**
 City planners have an immense responsibility to create urban environments that are sustainable, efficient, and conducive to the well-being of their residents. In regards to light pollution, we must recognize that while ensuring safety through proper lighting is essential, an over-illumination of our cityscapes has detrimental effects on health and the environment. Balancing these needs requires thoughtful planning and community engagement. The adoption of smart lighting technologies and carefully designed infrastructure can significantly mitigate light pollution without compromising safety. However, it's also important to consider budget constraints and prioritize investments that yield the greatest benefits.
 
-[S2. An Astronomer's Perspective]
+**[S2. An Astronomer's Perspective]**
 For astronomers, light pollution is a hindrance to observing celestial bodies. The excess artificial light in cities obscures the night sky, making it challenging to conduct observations and research. Reducing light pollution is not just about clearer skies for astronomers; it's about inspiring the next generation. When children look up and see a sky full of stars, it fuels their imagination and interest in science. The incorporation of shielded lighting and ordinances to control unnecessary lighting during certain hours would be immensely beneficial for both professional astronomers and amateur stargazers.
 
-[S3. An Environmentalist’s Perspective]
+**[S3. An Environmentalist’s Perspective]**
 From an environmentalist's viewpoint, light pollution is a critical issue that disrupts ecosystems and affects wildlife. Many species, especially nocturnal ones, rely on natural light cycles for navigation, mating, and feeding. Artificial lights can disorient them and affect their natural behaviors. The environmental impact extends beyond wildlife, as excess lighting is a source of energy waste, contributing to greenhouse gas emissions. Cities should focus on minimizing their ecological footprint by adopting energy-efficient lighting and creating “dark sky” zones where lighting is minimized to protect local ecosystems.
 
-[S4. A Resident's Perspective]
+**[S4. A Resident's Perspective]**
 As a resident of a bustling city, convenience and safety are top priorities. While the notion of reducing light pollution is admirable, it's essential to ensure that streets remain well-lit to deter crime and ensure the safety of pedestrians and drivers. The community should have a say in the plans to reduce light pollution. Through town hall meetings and community surveys, residents can express their concerns and suggestions. It's also important to educate residents on the health benefits of reduced exposure to artificial light at night, which can improve sleep quality and overall well-being.
 
-[S5. An Energy Consultant's Perspective]
+**[S5. An Energy Consultant's Perspective]**
 As an energy consultant, tackling light pollution presents an opportunity to enhance energy efficiency and sustainability. By transitioning to LED lighting and integrating smart technologies, cities can optimize their energy consumption. This not only reduces light pollution but also translates into substantial cost savings in the long term. Furthermore, incentives and rebates for energy-efficient lighting can be leveraged to offset the upfront costs of transitioning to new technologies. It's an investment that pays for itself over time through reduced energy bills and maintenance costs.
 
 These perspectives represent the diverse range of viewpoints regarding light pollution. A comprehensive plan must take into consideration all these perspectives to create a balanced, effective, and sustainable approach to reducing light pollution in major cities.
@@ -798,22 +798,22 @@ These perspectives represent the diverse range of viewpoints regarding light pol
 
 ---
 
-[S1. City Planner's Comment]
+**[S1. City Planner's Comment]**
 "I thought today's brainstorming discussion was enlightening. It's crucial that as city planners, we take into account the multifaceted nature of light pollution. I appreciate the collaborative effort and the expertise shared today. This will certainly inform our strategies moving forward."
 
-[S2. Astronomer's Comment]
+**[S2. Astronomer's Comment]**
 "The discussion today was productive. It's heartening to see different stakeholders coming together to tackle light pollution, which is often overlooked. As astronomers, it is vital for us to have a clear night sky, and this initiative brings us a step closer to that."
 
-[S3. Environmentalist’s Comment]
+**[S3. Environmentalist’s Comment]**
 "I'm impressed by the diversity of insights and the commitment to addressing light pollution in a way that also considers environmental sustainability. It’s heartening to see that there’s a willingness to protect our natural ecosystems."
 
-[S4. Resident's Comment]
+**[S4. Resident's Comment]**
 "As a resident, I am glad to see the city taking action on light pollution, and it’s reassuring that our safety and well-being are considered. Engaging the community in this effort is commendable."
 
-[S5. Energy Consultant's Comment]
+**[S5. Energy Consultant's Comment]**
 "Today’s discussion was a great example of how collaboration can lead to innovative solutions. As an energy consultant, it’s exciting to think about the potential energy savings and sustainability benefits that can be achieved through tackling light pollution."
 
-[S6. IA's Self-Assessment]
+**[S6. IA's Self-Assessment]**
 
 | Category           | Score (1-10) |
 |--------------------|--------------|
@@ -839,7 +839,7 @@ These perspectives represent the diverse range of viewpoints regarding light pol
 
 ---
 
-[S7. Mentor's Final Comment]
+**[S7. Mentor's Final Comment]**
 
 "The session today demonstrated a remarkable blend of expertise and shared commitment to addressing light pollution in major US cities. The array of perspectives brought to the table was critical to ensuring a holistic approach to the issue. I commend IA for adeptly facilitating the session and synthesizing insights from various fields. However, there is room to push the boundaries further and explore more innovative solutions. Going forward, it would be beneficial to include more diverse voices, such as representatives from local businesses and the education sector, and perhaps even explore international best practices. Overall, this was a promising start, and I look forward to seeing how this initiative evolves."
 
