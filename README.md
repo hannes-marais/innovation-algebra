@@ -73,6 +73,7 @@ IA aspires to solve real-world problems using AI. Hence IA is more complex than 
 
 The best way to get a feeling for how IA can be used is the case studies. Recent case studies are at the top.
 
+* [Sustainable Food packaging](casestudies/food-packaging.md) - Developing sustainable, biodegradable active food packaging with antibacterial and antioxidant properties using coaxial electrospinning technology to create core-shell structured nanofibers. Pushing IA to its limits and evaluating its own performance. Based on [Preparation of Fast-Dissolving Antibacterial and Antioxidant Nanofibers Based on Gelatin and Pullulan Using Coaxial Electrospinning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443875)
 * [Business School Case Study Generation](casestudies/business-casestudy.md) - Development of a business case study for a medium sized business.
 * [FlexiRide Proposal](casestudies/flexiride.md) - Auto-selection of a common city-problem and developing a solution. Minimal user input.
 * [Experiments in Reducing Light Polllution](casestudies/light-pollution.md) - Uses IA 2.7, which is able to design experiments.
