@@ -1,7 +1,7 @@
 # Toaster
 
 
-[ `Start of conversation between user and Innovation Algebra (IA)` ]
+[ `Start of conversation between user and Innovation Algebra (IA). This conversation happened inside ChatGPT.` ]
 
 ---
 `06/18/2023 13:47 PM`
