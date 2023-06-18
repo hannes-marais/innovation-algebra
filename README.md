@@ -42,29 +42,6 @@ Instructions:
 * Start using IA. For example type `Topic("AI risk") | ++ ` [(IA Response)](ai-risk.md).
 * **Tip**: If you are stuck, simply type `++` to consult the Guru (IA 2.5+).
 
-## The ChatGPT Prompt
-
-* Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.7).
-* IA 2.6+ is powerful enough to evolve itself and make suggestions for its own improvement. For example, IA 2.7 was mostly designed with the help of IA 2.6. If you discover that your problem is too complicated for IA, I suggest that you ask it to design additional functions and frameworks, which you can immediately use. Please share your IA discoveries so that other innovators and researchers can also benefit.
-* The complexity of IA now has out-grown GPT 3.5, and my work is now just focusing on GPT 4. I know it leaves a lot of folks behind, so effort to make it work on GPT 3.5 is appreciated.
-* You will likely run into usage limits of GPT-4 since IA tends to create long and interesting sessions. Currently there is no work-around for this.
-
-## Keep in touch with IA users
-
-* Interesting in updates, tips, events or tutorials? Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra).
-* Have suggestions? Ping [@HiDeeeps](https://twitter.com/HiDeeeps) or create a Git pull request.
-  
-## Guru Mode (IA 2.5+)
-
-Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
-
-[View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
-
-* IA 2.7 introduces the Mentor, which observes the IA sessions. You can ask it for feedback, but in general it just observes. See the case study on light pollution below.
-
-
-🧠 ++ 🤖
-
 ## Case Studies
 
 Innovating and solving real problems is .. **complex**. 
@@ -73,6 +50,7 @@ IA aspires to solve real-world problems using AI. Hence IA is more complex than 
 
 The best way to get a feeling for how IA can be used is the case studies. Recent case studies are at the top.
 
+* [NeuroPet/TalkToThem](casestudies/TalkToThem.md) - Development of crazy products in the human/animal communication space, also covers ethics of using IA in innovation.
 * [Sustainable Food packaging](casestudies/food-packaging.md) - Developing sustainable, biodegradable active food packaging with antibacterial and antioxidant properties using coaxial electrospinning technology to create core-shell structured nanofibers. Pushing IA to its limits and evaluating its own performance. Based on [Preparation of Fast-Dissolving Antibacterial and Antioxidant Nanofibers Based on Gelatin and Pullulan Using Coaxial Electrospinning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443875)
 * [Business School Case Study Generation](casestudies/business-casestudy.md) - Development of a business case study for a medium sized business.
 * [FlexiRide Proposal](casestudies/flexiride.md) - Auto-selection of a common city-problem and developing a solution. Minimal user input.
@@ -99,6 +77,30 @@ Contributed:
 * [Dear Gabrielle](https://chat.openai.com/share/559ce73c-3e2d-441c-8699-65d204238aaf) - The advice column with AI-inspired wisdom (WIP). [Official site](https://deargabrielle.substack.com/p/ai-powered-relationship-advice-for-the-ai-age)
 
 Please reach out to add yours to the list.
+
+## The ChatGPT Prompt
+
+* Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.7).
+* IA 2.6+ is powerful enough to evolve itself and make suggestions for its own improvement. For example, IA 2.7 was mostly designed with the help of IA 2.6. If you discover that your problem is too complicated for IA, I suggest that you ask it to design additional functions and frameworks, which you can immediately use. Please share your IA discoveries so that other innovators and researchers can also benefit.
+* The complexity of IA now has out-grown GPT 3.5, and my work is now just focusing on GPT 4. I know it leaves a lot of folks behind, so effort to make it work on GPT 3.5 is appreciated.
+* You will likely run into usage limits of GPT-4 since IA tends to create long and interesting sessions. Currently there is no work-around for this.
+
+## Keep in touch with IA users
+
+* Interesting in updates, tips, events or tutorials? Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra).
+* Have suggestions? Ping [@HiDeeeps](https://twitter.com/HiDeeeps) or create a Git pull request.
+  
+## Guru Mode (IA 2.5+)
+
+Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
+
+[View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
+
+* IA 2.7 introduces the Mentor, which observes the IA sessions. You can ask it for feedback, but in general it just observes. See the case study on light pollution below.
+
+
+🧠 ++ 🤖
+
 
 ## Tips
 
