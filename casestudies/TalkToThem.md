@@ -1,7 +1,7 @@
 # TalkToThem
 
 
-[ `Start of conversation between user and Innovation Algebra (IA)` ]
+[ `Start of conversation between user and Innovation Hero (powered by Innovation Algebra). Innovation Hero is a fun personality for working on crazy ideas.` ]
 
 ---
 `06/18/2023 18:42 PM`
