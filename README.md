@@ -88,7 +88,7 @@ The best way to get a feeling for how IA can be used is the case studies. Recent
 
 ### Miscellaneous
 
-* [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
+* [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc) - Pretty old, needs refreshing.
 
 ### Contributed
 
