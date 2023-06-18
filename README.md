@@ -75,13 +75,13 @@ The best way to get a feeling for how IA can be used is the case studies. Recent
 * [Startup Generation](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - What do to with home chores?
 
-## Science
+### Science
 
 * [Sustainable Food packaging](casestudies/food-packaging.md) - Developing sustainable, biodegradable active food packaging with antibacterial and antioxidant properties using coaxial electrospinning technology to create core-shell structured nanofibers. Pushing IA to its limits and evaluating its own performance. Based on [Preparation of Fast-Dissolving Antibacterial and Antioxidant Nanofibers Based on Gelatin and Pullulan Using Coaxial Electrospinning]
 * [Synthetic Cells](https://chat.openai.com/share/b84db000-83af-467f-8796-08d6baa853aa) - IA 2.7 allows you to explore the knowledge frontier of science. Pick the topic example.
 * [Human Hibernation](https://chat.openai.com/share/c0ec7efe-f5a6-439a-a081-cadf3bc1482b)
 
-## Environment
+### Environment
 
 * [The Polluter Pay Princple in India](https://chat.openai.com/share/fbfb541e-1a89-49fa-b94f-3f76d7af59bb) - Analysis of India's oil pollution liabilities compared to international conventions. This case study is interesting because it applies the Venture Capitalist Perspective, Cross-Domain Analysis, Case-Based Analysis, TRIZ Analysis, which is not normally used in this contexn. In addition, most interestingly, IA also extends its own functionality to address weaknesses.
 * [Grid-scale Energy Storage, Role of Regulatory Sandboxes](https://chat.openai.com/share/a25cd877-e800-4adb-a45e-14b4b1684089) - Energy policy; used design thinking, TRIZ, pareto principle, technical writing. 
