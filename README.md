@@ -37,9 +37,10 @@ Innovation Algebra operating within ChatGPT offers a blend of structure and flex
 
 Instructions:
 
+* Ensure you have a ChatGPT Pro subscription.
 * Click the above link to open a saved ChatGPT session with the IA prompt loaded.
 * Click 'Continue the conversation'.
-* Start using IA. For example type `Topic("AI risk") | ++ ` [(IA Response)](ai-risk.md).
+* Start using IA by stating your goals
 * **Tip**: If you are stuck, simply type `++` to consult the Guru (IA 2.5+).
 
 ## Case Studies
