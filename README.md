@@ -49,7 +49,8 @@ IA aspires to solve real-world problems using AI. Hence IA is more complex than 
 
 The best way to get a feeling for how IA can be used is the case studies. Recent case studies are at the top of each list. Note that new case studies are re-formattings of ChatGPT logs with the long IA prompt removed for readability.
 
-### Creativity Tests
+### Creativity Tests / Innovation Hero persona
+
 * [NeuroPet/TalkToThem](casestudies/TalkToThem.md) - Capability test of IA ability to develop ideas 'from zero' and optimize them. Creates a product in the human/animal communication space, also covers ethics of using IA in innovation.
 * [Time Toaster](casestudies/time-toaster.md) - Capability test of IA ability to develop ideas 'from zero' and optimize them. Creates a time-traveling toaster.
 
