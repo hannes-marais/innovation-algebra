@@ -1,6 +1,6 @@
 # TalkToThem
 
-## Overview
+## Abstract
 
 In this session, the user interacted with ChatGPT's Innovation Algebra (IA) feature to explore innovative concepts and create content. 
 
