@@ -4,7 +4,7 @@
 
 In this session, the user interacted with ChatGPT's Innovation Algebra (IA) feature to explore innovative concepts and create content. 
 
-- **Introduction**: The user introduced the Innovation Algebra (IA) 2.7 Specification and requested to invent something crazy.
+- **Introduction**: The user introduced the Innovation Algebra (IA) Specification and requested to invent something crazy.
 
 - **Crazy Invention**: IA generated a whimsical product idea named "NeuroPet", which is a helmet allowing pets to communicate with their owners through neural interfaces.
 
