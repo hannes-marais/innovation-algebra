@@ -15,7 +15,7 @@ The best way to get a feeling for how IA can be used is the case studies. Recent
 
 * [Noise Pollution II](https://chat.openai.com/share/fa063ea6-89f3-4aef-a538-500a1409577a) - Preview of IA 2.7 (under testing), with strategy and addition functions like case studies, insights, etc. This very representive of the state-of-the-art for IA.  IA 2.7 does much better than the previous version, compare with Noise Pollution I.
 * [FlexiRide Proposal](flexiride.md) - Auto-selection of a common city-problem and developing a solution. Minimal user input.
-* [Experiments in Reducing Light Polllution](casestudies/light-pollution.md) - Uses IA 2.7, which is able to design experiments.
+* [Experiments in Reducing Light Polllution](light-pollution.md) - Uses IA 2.7, which is able to design experiments.
 * [Revitalizing Cities](https://chat.openai.com/share/4d80a4ed-577b-4cc0-9a48-449a13f6dd66) - Explores new policies around city revitalization.
 * [Reintroducing Animals into Cities](https://chat.openai.com/share/b69dcf03-5a85-49e7-8277-cbe2d8c5815c) - Conservation, public policy, and regulations. Covers a myriad of issues in 22 parts. (Runs out of context)
 * [Noise Pollution I](https://chat.openai.com/share/ce11c3d7-b0d9-4824-80bf-b7215270def2) - Starts with irritating problems, a lot of talk about new car horns, no conclusion.
