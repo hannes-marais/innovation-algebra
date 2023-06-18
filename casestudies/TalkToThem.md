@@ -26,9 +26,11 @@ In this session, the user interacted with ChatGPT's Innovation Algebra (IA) feat
 
 Throughout the session, IA operated in Guru Mode for optimized strategic thinking and planning, and also provided information and resources based on the user's inquiries and requests.
 
+**Note**: In this innovation session, the personality of IA, which is stricly professional, was modified to create an Innovation Hero persona that is fun and motivational.
+
 ## Conversation Log
 
-[ `Start of conversation between user and Innovation Hero (powered by Innovation Algebra). Innovation Hero is a fun personality for working on crazy ideas.` ]
+[ `Start of conversation between user and Innovation Hero (powered by Innovation Algebra)` ]
 
 ---
 `06/18/2023 18:42 PM`
