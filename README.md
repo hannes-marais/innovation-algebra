@@ -47,9 +47,14 @@ Innovating and solving real problems is .. **complex**.
 
 IA aspires to solve real-world problems using AI. Hence IA is more complex than the typical ChatGPT prompt. Plus IA uses frameworks that you probably never heard of before. 
 
-The best way to get a feeling for how IA can be used is the case studies. Recent case studies are at the top.
+The best way to get a feeling for how IA can be used is the case studies. Recent case studies are at the top of each list. Note that new case studies are re-formattings of ChatGPT logs with the long IA prompt removed for readability.
 
+### Creativity Tests
 * [NeuroPet/TalkToThem](casestudies/TalkToThem.md) - Capability test of IA ability to develop ideas 'from zero' and optimize them. Creates a product in the human/animal communication space, also covers ethics of using IA in innovation.
+* [Time Toaster](casestudies/time-toaster.md) - Capability test of IA ability to develop ideas 'from zero' and optimize them. Creates a time-traveling toaster.
+
+### Serious Topics
+
 * [Sustainable Food packaging](casestudies/food-packaging.md) - Developing sustainable, biodegradable active food packaging with antibacterial and antioxidant properties using coaxial electrospinning technology to create core-shell structured nanofibers. Pushing IA to its limits and evaluating its own performance. Based on [Preparation of Fast-Dissolving Antibacterial and Antioxidant Nanofibers Based on Gelatin and Pullulan Using Coaxial Electrospinning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443875)
 * [Business School Case Study Generation](casestudies/business-casestudy.md) - Development of a business case study for a medium sized business.
 * [FlexiRide Proposal](casestudies/flexiride.md) - Auto-selection of a common city-problem and developing a solution. Minimal user input.
@@ -71,7 +76,7 @@ The best way to get a feeling for how IA can be used is the case studies. Recent
 * [IA Tutorial](https://chat.openai.com/share/9bc94c10-e193-4d23-bc19-923844bf32cc)
 * [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - What do to with home chores?
 
-Contributed:
+### Contributed
 
 * [Dear Gabrielle](https://chat.openai.com/share/559ce73c-3e2d-441c-8699-65d204238aaf) - The advice column with AI-inspired wisdom (WIP). [Official site](https://deargabrielle.substack.com/p/ai-powered-relationship-advice-for-the-ai-age)
 
