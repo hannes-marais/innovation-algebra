@@ -74,7 +74,7 @@ The best way to get a feeling for how IA can be used is the case studies. Recent
 * [Idea generation using frameworks](https://chat.openai.com/share/40775f0a-3e6e-45c6-90d4-d4c76a1cfd83)
 * [Startup Generation](https://chat.openai.com/share/01f819ea-fb9c-4367-9a5e-e16f30c11404)
 * [Chore Innovation](https://chat.openai.com/share/d770bc53-2e24-4702-b96f-0f6c69ab3150) - What do to with home chores?
-* 
+
 ## Science
 
 * [Sustainable Food packaging](casestudies/food-packaging.md) - Developing sustainable, biodegradable active food packaging with antibacterial and antioxidant properties using coaxial electrospinning technology to create core-shell structured nanofibers. Pushing IA to its limits and evaluating its own performance. Based on [Preparation of Fast-Dissolving Antibacterial and Antioxidant Nanofibers Based on Gelatin and Pullulan Using Coaxial Electrospinning]
@@ -83,7 +83,6 @@ The best way to get a feeling for how IA can be used is the case studies. Recent
 
 ## Environment
 
-(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443875)
 * [The Polluter Pay Princple in India](https://chat.openai.com/share/fbfb541e-1a89-49fa-b94f-3f76d7af59bb) - Analysis of India's oil pollution liabilities compared to international conventions. This case study is interesting because it applies the Venture Capitalist Perspective, Cross-Domain Analysis, Case-Based Analysis, TRIZ Analysis, which is not normally used in this contexn. In addition, most interestingly, IA also extends its own functionality to address weaknesses.
 * [Grid-scale Energy Storage, Role of Regulatory Sandboxes](https://chat.openai.com/share/a25cd877-e800-4adb-a45e-14b4b1684089) - Energy policy; used design thinking, TRIZ, pareto principle, technical writing. 
 
