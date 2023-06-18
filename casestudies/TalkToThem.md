@@ -1,4 +1,4 @@
-# TalkToThem
+# NeuroPet / TalkToThem IA Case Study
 
 ## Abstract
 
