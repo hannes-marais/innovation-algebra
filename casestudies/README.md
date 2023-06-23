@@ -8,6 +8,7 @@ The best way to get a feeling for how IA can be used is the case studies. Recent
 
 ### Creativity Tests / Innovation Hero persona
 
+* [Designing a Toy](toy.md) - Case study developing a DIY Guitar toy and business around it. (Shown in the IA User's Group demo of 6/23/2023).
 * [NeuroPet/TalkToThem](TalkToThem.md) - Capability test of IA ability to develop ideas 'from zero' and optimize them. Creates a product in the human/animal communication space, also covers ethics of using IA in innovation.
 * [Time Toaster](time-toaster.md) - Capability test of IA ability to develop ideas 'from zero' and optimize them. Creates a time-traveling toaster.
 
