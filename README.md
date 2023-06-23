@@ -62,8 +62,7 @@ Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide 
 
 * IA 2.7 introduces the Mentor, which observes the IA sessions. You can ask it for feedback, but in general it just observes. See the case study on light pollution below.
 
-
-🧠 ++ 🤖
+> Some argue that while AI can manage large volumes of information and automate decision-making, its effectiveness in more nuanced, context-dependent, and creative problem-solving tasks remains questionable. Human intuition, emotion, and creativity can play a significant role in these areas, challenging the idea that AI can completely navigate the knowledge frontier on its own.
 
 
 ## Tips
