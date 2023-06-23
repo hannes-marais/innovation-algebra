@@ -54,13 +54,11 @@ Learn how to **innovate in the knowledge frontier** with artifical intelligence 
 * Interesting in updates, tips, events or tutorials? Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra).
 * Have suggestions? Ping [@HiDeeeps](https://twitter.com/HiDeeeps) or create a Git pull request.
   
-## Guru Mode (IA 2.5+)
+## Guru Mode for Guided Innovation (IA 2.5+)
 
-Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide your exploration. Set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
+* Since innovation frameworks are complex, IA 2.5 introduced "Guru mode" to guide your exploration. Simply set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
 
-[View Example](https://chat.openai.com/share/252ce844-d929-4b5b-b6c3-abf0dc682725).
-
-* IA 2.7 introduces the Mentor, which observes the IA sessions. You can ask it for feedback, but in general it just observes. See the case study on light pollution below.
+* IA 2.7 introduced the Mentor, which observes the IA sessions. You can ask it for feedback, but in general it just observes and sometimes speaks. 
 
 > Some argue that while AI can manage large volumes of information and automate decision-making, its effectiveness in more nuanced, context-dependent, and creative problem-solving tasks remains questionable. Human intuition, emotion, and creativity can play a significant role in these areas, challenging the idea that AI can completely navigate the knowledge frontier on its own.
 
@@ -81,6 +79,8 @@ Since innovation frameworks are complex, IA 2.5 introduces "Guru mode" to guide 
   
 ## Supported Innovation Frameworks (IA 2.2+)
 
+> ​Thinking frameworks such as brainstorming, SCAMPER, SWOT or PESTEL analysis play pivotal roles in problem-solving across numerous fields. While humans are limited by their cognitive capacities in applying these frameworks, AI can utilize hundreds, continually refining its approach based on new data and outcomes. This ability has shown remarkable promise in fields ranging from medical diagnostics to financial forecasting co chip design.
+> 
 1. **SCAMPER** - It stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. It's a brainstorming tool used to improve products or services. For example, you can substitute a component of a product with something else, combine it with another product, or adapt it for a different use.
 
 2. **Design Thinking** - A methodology for solving complex problems. It involves understanding the human needs involved, re-framing the problem, creating many ideas in brainstorming sessions, and adopting a hands-on approach in prototyping and testing.
