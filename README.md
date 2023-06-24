@@ -174,7 +174,7 @@ Experts can invoke low-level IA functions and frameworks direcly, but you need t
     
 [More Examples](examples.md)
 
-## Advanced
+## Advanced Topics and Links
 
 Developing GPT frameworks:
 
@@ -187,7 +187,7 @@ Related GPT Framework (using similar ideas as IA):
 
 Apps/Tools built on top of IA and GPT frameworks:
 
-* Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
+* None yet. Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
   
 
 ## Getting Help
@@ -198,9 +198,11 @@ If you need help, please reach out to Hannes Marais ([LinkedIn](https://www.link
 
 ## Citing IA
 
-Innovation Algebra, in the right hands, is an extremely powerful tool. It can explore & research so far and wide in a single session that it can make you look super-human to others. So I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so feel free to not cite IA. And welcome to the club of "secret cyborgs" :)
+Innovation Algebra, in the right hands, is an extremely powerful tool. It can explore & research so far and wide in a single session that it can make you look super-human to others. So I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so you may not want to cite IA. 
 
-If do you post about IA, please use [**#InnovationAlgebra**](https://twitter.com/search?q=%23InnovationAlgebra&src=typed_query) so we can find it!
+Welcome to the club of "secret cyborgs" :) It's OK.
+
+If do you post about IA, please use [**#InnovationAlgebra**](https://twitter.com/search?q=%23InnovationAlgebra&src=typed_query) so we can find it!  And consider linking to this page; we will return the favor.
 
 I appreciate feedback and success stories from the innovation trenches. Reach out via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps) or [LinkedIn](https://www.linkedin.com/in/hannesmarais/).
 
