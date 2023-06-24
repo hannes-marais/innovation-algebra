@@ -14,7 +14,7 @@ Innovation Algebra (IA) is an experimental framework designed for systematic gen
 
 With a defined set of functions, IA facilitates the retrieval, analysis, and synthesis of knowledge across various domains. Function pipelining, a key feature of IA, allows for the sequential chaining of functions, streamlining complex multi-step tasks such as combining knowledge from different fields, identifying the forefront of research, and generating profound insights.
 
-Innovation Algebra operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge. It is a great model to structure your thinking.
+Innovation Algebra operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge. It is a great model to re-structure your thinking.
 
 * [IA for Entrepreneurs](swiss-army-knife-for-entreprenuers.md)
 * [IA for City Planners](city-planning.md)
