@@ -128,7 +128,9 @@ These frameworks can be used individually or in combination depending on the con
 
 IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to evaluate ideas using all the frameworks. So if you do not know how to proceed with evaluation/improvement, type `FIRE`.
 
-## IA Examples
+## IA Low-level Examples
+
+Experts can invoke low-level IA functions and frameworks direcly, but you need to know the **magic incantations** below. This way of talking to IA is rapidly being surpassed by Guru mode, which can do better and more creative planning than most humans.
 
 **1. `Topic("quantum computing") | D | Names`**
    - **Explanation**: Retrieves knowledge about quantum computing, provides detailed information including algorithms and techniques related to quantum computing, and then lists top people, companies, and products that are related to quantum computing.
