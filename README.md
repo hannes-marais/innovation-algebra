@@ -188,7 +188,9 @@ If you need help, please reach out to Hannes Marais ([LinkedIn](https://www.link
 
 ## Citing IA
 
-IA is powerful and can automate a lot. So I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so please feel free to not cite IA. If do you post about IA, please use [**#InnovationAlgebra**](https://twitter.com/search?q=%23InnovationAlgebra&src=typed_query) so we can find it!
+Innovation Algebra, in the right hands, is a extremely powerful ally. It can explore & research so far and wide in a single session that it can you look super-human. So I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so please feel free to not cite IA. Welcome to the club of secret cyborgs :)
+
+If do you post about IA, please use [**#InnovationAlgebra**](https://twitter.com/search?q=%23InnovationAlgebra&src=typed_query) so we can find it!
 
 I appreciate feedback and success stories from the innovation trenches. Reach out via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps) or [LinkedIn](https://www.linkedin.com/in/hannesmarais/).
 
