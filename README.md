@@ -51,7 +51,7 @@ Learn how to **innovate in the knowledge frontier** with artifical intelligence 
 
 ## Keep in touch with IA users
 
-* Interesting in updates, tips, events or tutorials? Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra). Since IA is so new, we've not had many meetups yet, but the few we had was incredibly interesting. Really interesting discussions if you are interested in the future of AI. Reach out if you would consider being a guest speaker.
+* Interested in updates, tips, events or tutorials? Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra). Since IA is so new, we've not had many meetups yet, but the few we had was incredibly interesting. Really interesting discussions if you are interested in the future of AI. Reach out if you would consider being a guest speaker.
 * Have suggestions? Ping [@HiDeeeps](https://twitter.com/HiDeeeps) or create a Git pull request.
   
 ## Guru Mode for Guided Innovation (IA 2.5+)
