@@ -185,9 +185,9 @@ If you need help, please reach out to Hannes Marais ([LinkedIn](https://www.link
 
 ## Citing IA
 
-IA is powerful and can automate a lot. So I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so please feel free to not cite IA. 
+IA is powerful and can automate a lot. So I understand that there might be reluctance to mention the contribution of IA to your work, research, and/or creative content, so please feel free to not cite IA. If do you post about IA, please use #InnovationAlgebra so we can find it!
 
-However, I do appreciate feedback and success stories from the innovation trenches. Reach out via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps) or [LinkedIn](https://www.linkedin.com/in/hannesmarais/).
+I appreciate feedback and success stories from the innovation trenches. Reach out via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps) or [LinkedIn](https://www.linkedin.com/in/hannesmarais/).
 
 Keep on innovating! Hannes MARAIS
 
