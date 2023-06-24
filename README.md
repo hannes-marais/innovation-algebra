@@ -80,21 +80,21 @@ Instructions:
   
 ## Supported Innovation Frameworks (IA 2.2+)
 
-> ​Thinking frameworks such as brainstorming, SCAMPER, SWOT or PESTEL analysis play pivotal roles in problem-solving across numerous fields. While humans are limited by their cognitive capacities in applying these frameworks, AI can utilize hundreds, continually refining its approach based on new data and outcomes. This ability has shown remarkable promise in fields ranging from medical diagnostics to financial forecasting co chip design.
+> ​Thinking frameworks such as brainstorming, SCAMPER, SWOT or PESTEL analysis play pivotal roles in problem-solving across numerous fields. While humans are limited by their cognitive capacities in applying these frameworks, AI can utilize hundreds, continually refining its approach based on new data and outcomes. This ability has shown remarkable promise in fields ranging from medical diagnostics to financial forecasting to chip design. My favorites for idea generation are starred.
 > 
-1. **SCAMPER** - It stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. It's a brainstorming tool used to improve products or services. For example, you can substitute a component of a product with something else, combine it with another product, or adapt it for a different use.
+1. :star: **SCAMPER** - It stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. It's a brainstorming tool used to improve products or services. For example, you can substitute a component of a product with something else, combine it with another product, or adapt it for a different use.
 
-2. **Design Thinking** - A methodology for solving complex problems. It involves understanding the human needs involved, re-framing the problem, creating many ideas in brainstorming sessions, and adopting a hands-on approach in prototyping and testing.
+2. :star: **Design Thinking** - A methodology for solving complex problems. It involves understanding the human needs involved, re-framing the problem, creating many ideas in brainstorming sessions, and adopting a hands-on approach in prototyping and testing.
 
-3. **6 Hats** - Edward de Bono's Six Thinking Hats is a tool for group discussion and individual thinking involving six colored hats. Each color represents a different perspective. It's used to look at decisions from multiple viewpoints.
+3. :star: **6 Hats** - Edward de Bono's Six Thinking Hats is a tool for group discussion and individual thinking involving six colored hats. Each color represents a different perspective. It's used to look at decisions from multiple viewpoints.
 
 4. **5 Whys** - A problem-solving technique that involves asking "why" five times to get to the root cause of a problem.
 
-5. **TRIZ** - A Russian acronym for "Theory of Inventive Problem Solving". It's a methodology for systematic problem solving. It's based on logic, data, and research, not intuition.
+5. :star: **TRIZ** - A Russian acronym for "Theory of Inventive Problem Solving". It's a methodology for systematic problem solving. It's based on logic, data, and research, not intuition.
 
 6. **Starbursting** - A brainstorming technique focusing on generating questions. It helps in exploring new avenues and challenges by questioning every aspect of the project.
 
-7. **SWOT** - Stands for Strengths, Weaknesses, Opportunities, and Threats. It's a strategic planning tool for identifying and analyzing these four elements of a project or business venture.
+7.:star:  **SWOT** - Stands for Strengths, Weaknesses, Opportunities, and Threats. It's a strategic planning tool for identifying and analyzing these four elements of a project or business venture.
 
 8. **Lotus Blossom** - A diagram used for exploring all the elements of a problem. It encourages you to elaborate on the problem by looking at it from multiple angles.
 
@@ -108,7 +108,7 @@ Instructions:
 
 13. **Metrics** - Measurement tools that quantify information. In business, metrics are used to track the effectiveness of processes over time.
 
-14. **Headlines from the future** - A creativity tool in which you imagine what headlines in the future might say about your product or organization, helping you define what success looks like and what you need to do to achieve it.
+14. :star: **Headlines from the future** - A creativity tool in which you imagine what headlines in the future might say about your product or organization, helping you define what success looks like and what you need to do to achieve it.
 
 15. **PESTEL** - Stands for Political, Economic, Social, Technological, Environmental, and Legal. It's a framework used for scanning an organization’s external macro environment.
 
