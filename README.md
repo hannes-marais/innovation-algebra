@@ -80,8 +80,10 @@ Instructions:
   
 ## Supported Innovation Frameworks (IA 2.2+)
 
-> ​Thinking frameworks such as brainstorming, SCAMPER, SWOT or PESTEL analysis play pivotal roles in problem-solving across numerous fields. While humans are limited by their cognitive capacities in applying these frameworks, AI can utilize hundreds, continually refining its approach based on new data and outcomes. This ability has shown remarkable promise in fields ranging from medical diagnostics to financial forecasting to chip design. My favorites for idea generation are starred.
-> 
+Thinking frameworks such as brainstorming, SCAMPER, SWOT, TRIZ or PESTEL analysis play pivotal roles in problem-solving across numerous fields. While humans are limited by their cognitive capacities in applying these frameworks, AI can utilize hundreds, continually refining its approach based on new data and outcomes. This ability has shown remarkable promise in fields ranging from medical diagnostics to financial forecasting to chip design.
+
+My favorites for idea generation are starred. They are they secret weapons of the innovators.
+
 1. :star: **SCAMPER** - It stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. It's a brainstorming tool used to improve products or services. For example, you can substitute a component of a product with something else, combine it with another product, or adapt it for a different use.
 
 2. :star: **Design Thinking** - A methodology for solving complex problems. It involves understanding the human needs involved, re-framing the problem, creating many ideas in brainstorming sessions, and adopting a hands-on approach in prototyping and testing.
