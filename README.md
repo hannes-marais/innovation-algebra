@@ -41,7 +41,7 @@ Instructions:
 
 How do you **innovate in the knowledge frontier** using artifical intelligence? Become a better innovator? Solve hard problems?
 
-:star: :star: :star: Start by simply **reading** the [IA case studies](/casestudies) on topics such as creativity, engineering, city planning, business & startups, science, the environment and more. It is a crash course how to think.
+:star: :star: :star: **Start by simply reading** the [IA case studies](/casestudies) on topics such as creativity, engineering, city planning, business & startups, science, the environment and more. It is a crash course how to think.
 
 > ​The expanding knowledge frontier presents both challenges and opportunities, and effective navigation likely requires a combination of AI's computational power and the intuitive understanding of human experts. Although the dynamic between AI and the knowledge frontier's expansion may accelerate, it also opens unprecedented opportunities for discovery and innovation. As we navigate this new frontier, it's crucial to ensure a balanced approach, leveraging AI's capabilities while acknowledging the irreplaceable value of human expertise. The future lies not in competing with AI, but in collaboratively navigating the expanding knowledge frontier, ushering in an era of remarkable discovery and innovation.
 
