@@ -174,7 +174,7 @@ Experts can invoke low-level IA functions and frameworks direcly, but you need t
     
 [More Examples](examples.md)
 
-## Advanced: Creating new frameworks
+## Advanced
 
 Developing GPT frameworks:
 
@@ -183,6 +183,11 @@ Developing GPT frameworks:
 Related GPT Framework (using similar ideas as IA):
 
 * [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework.
+* Please let me know if you adapted IA for another purpose.
+
+Apps/Tools built on top of IA and GPT frameworks:
+
+* Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
   
 ## Getting Help
 
