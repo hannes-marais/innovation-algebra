@@ -1,11 +1,10 @@
 ![Functions](IA.001.jpeg)
 
 <div align="center">
-# VIDEO
 
 [![Innovation Algebra Introduction](http://img.youtube.com/vi/LacfSWb-JrY/0.jpg)](http://www.youtube.com/watch?v=LacfSWb-JrY "Innovation Algebra Introduction")
 
-[Slide PDF](IA-slides-june-2023.pdf)
+Wath the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
 
 </div>
 
