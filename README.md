@@ -22,8 +22,7 @@ Innovation Algebra operating within ChatGPT offers a blend of structure and flex
 
 ## Get Started Now
 
-- [>>> Start chatting IA 3.0 (Experimental) <<<](https://chat.openai.com/share/2b4b436a-b418-4474-8aad-ef2ab271655c)
-
+- [>>> Start chatting IA 3.0 (Under development) <<<](https://chat.openai.com/share/2b4b436a-b418-4474-8aad-ef2ab271655c)
 - [>>> Start chatting IA 2.7 <<<](https://chat.openai.com/share/c7fb98e7-2334-4008-8714-a6a2191052cb)
 - [>>> Start chatting IA 2.6 <<<](https://chat.openai.com/share/8d15d103-52fe-468c-bde9-e35d4256d519)
 - [>>> Start chatting IA 2.5 <<<](https://chat.openai.com/share/655ced1d-63d9-4ef8-93e1-a93074b655e7)
