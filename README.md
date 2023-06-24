@@ -6,7 +6,7 @@
 
 [Slide PDF](IA-slides-june-2023.pdf)
 
-<p align="center>
+<p align="center">
   
 # Innovation Algebra for ChatGPT
 
