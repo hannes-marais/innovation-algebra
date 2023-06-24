@@ -12,7 +12,7 @@
 
 Innovation Algebra (IA) is an experimental framework designed for systematic generation, processing and evaluation of ideas. What sets IA apart is its integration within ChatGPT, allowing users to leverage the natural language processing capabilities of ChatGPT in combination with the structured functions of IA.
 
-With a defined set of functions, IA facilitates the retrieval, analysis, and synthesis of knowledge across various domains. Function pipelining, a key feature of IA, allows for the sequential chaining of functions, streamlining complex multi-step tasks such as combining knowledge from different fields, identifying the forefront of research, and generating profound insights.
+With a defined set of functions and thinking and analysis frameworks, IA facilitates the retrieval, analysis, and synthesis of knowledge across various domains. Function pipelining, a key feature of IA, allows for the sequential chaining of functions, streamlining complex multi-step tasks such as combining knowledge from different fields, identifying the forefront of research, and generating profound insights.
 
 Innovation Algebra operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge. It is a great model to re-structure your thinking.
 
@@ -189,6 +189,7 @@ Apps/Tools built on top of IA and GPT frameworks:
 
 * Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
   
+
 ## Getting Help
 
 You might be overwhelmed with all the possibilities of Innovation Algebra. Or not sure where to start with your problem. Or maybe you are interested in how to introduce IA in your organization. Or you need IA tailored/extended for specific business use cases, for example {X} management, business process model improvements, specialized educational content, etc.  
@@ -203,7 +204,13 @@ If do you post about IA, please use [**#InnovationAlgebra**](https://twitter.com
 
 I appreciate feedback and success stories from the innovation trenches. Reach out via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps) or [LinkedIn](https://www.linkedin.com/in/hannesmarais/).
 
-Keep on innovating! Hannes MARAIS
+## Thanks
+
+We stand on the shoulders of so many others. The inventors, innovators, entrepreneurs, scientists and business people that teach us how to think, our eco-system of startups, incubators and most recently the AI Chatbots and APIs from OpenAI and others. 
+
+Knowledge is power, and knowledge shared is power multiplied. Let's share!
+
+Hannes MARAIS
 
 
 
