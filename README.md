@@ -16,7 +16,7 @@ Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
 
 </div>
 
-Innovation Algebra (IA) is an experimental framework designed for systematic generation, processing and evaluation of ideas. What sets IA apart is its integration within ChatGPT, allowing users to leverage the natural language processing capabilities of ChatGPT in combination with the structured functions of IA.
+Innovation Algebra (IA) is an experimental GPT framework designed for systematic generation, processing and evaluation of ideas. What sets IA apart is its integration within ChatGPT, allowing users to leverage the natural language processing capabilities of ChatGPT in combination with the structured functions of IA.
 
 With a defined set of functions and thinking and analysis frameworks, IA facilitates the retrieval, analysis, and synthesis of knowledge across various domains. Function pipelining, a key feature of IA, allows for the sequential chaining of functions, streamlining complex multi-step tasks such as combining knowledge from different fields, identifying the forefront of research, and generating profound insights.
 
