@@ -45,13 +45,6 @@ How do you innovate in the knowledge frontier? Become a better innovator? Solve 
 
 > ​The expanding knowledge frontier presents both challenges and opportunities, and effective navigation likely requires a combination of AI's computational power and the intuitive understanding of human experts. Although the dynamic between AI and the knowledge frontier's expansion may accelerate, it also opens unprecedented opportunities for discovery and innovation. As we navigate this new frontier, it's crucial to ensure a balanced approach, leveraging AI's capabilities while acknowledging the irreplaceable value of human expertise. The future lies not in competing with AI, but in collaboratively navigating the expanding knowledge frontier, ushering in an era of remarkable discovery and innovation.
 
-
-## The ChatGPT Prompt
-
-* Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.7).
-* The complexity of IA now has out-grown GPT 3.5, and my work is now just focusing on GPT 4. I know it leaves a lot of folks behind, so help to make it work on GPT 3.5 is appreciated.
-* You will likely run into usage limits of GPT-4 since IA tends to create long and interesting sessions. Currently there is no work-around for this.
-
 ## Keep in touch with IA users
 
 * :fire: Interested in updates, tips, events or tutorials? Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra). Since IA is so new, we've not had many meetups yet, but the few we had was incredibly interesting. Really interesting discussions if you are interested in the future of AI.  Reach out if you would consider being a guest speaker.
@@ -188,7 +181,12 @@ Related GPT Framework (using similar ideas as IA):
 Apps/Tools built on top of IA and GPT frameworks:
 
 * None yet. Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
-  
+
+## The ChatGPT Prompt
+
+* Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.7).
+* The complexity of IA now has out-grown GPT 3.5, and my work is now just focusing on GPT 4. I know it leaves a lot of folks behind, so help to make it work on GPT 3.5 is appreciated.
+* You will likely run into usage limits of GPT-4 since IA tends to create long and interesting sessions. Currently there is no work-around for this.
 
 ## Getting Help
 
