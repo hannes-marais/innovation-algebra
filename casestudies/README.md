@@ -12,6 +12,10 @@ The best way to get a feeling for how IA can be used is the case studies. Recent
 * [NeuroPet/TalkToThem](TalkToThem.md) - Capability test of IA ability to develop ideas 'from zero' and optimize them. Creates a product in the human/animal communication space, also covers ethics of using IA in innovation.
 * [Time Toaster](time-toaster.md) - Capability test of IA ability to develop ideas 'from zero' and optimize them. Creates a time-traveling toaster.
 
+### Engineering
+
+* [System to launch a weather balloon from a Cessna aircraft](balloon.md) - Example of a complex product with many constraints. Also covers FAA certification. (Uses IA 3.0 experimental)
+  
 ### City Planning
 
 * [Noise Pollution II](https://chat.openai.com/share/fa063ea6-89f3-4aef-a538-500a1409577a) - Preview of IA 2.7 (under testing), with strategy and addition functions like case studies, insights, etc. This very representive of the state-of-the-art for IA.  IA 2.7 does much better than the previous version, compare with Noise Pollution I.
