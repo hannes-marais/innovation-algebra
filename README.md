@@ -33,8 +33,8 @@ Instructions:
 
 * Ensure you have a **ChatGPT Pro** subscription. **GPT 4** capabilities are required.
 * Click the above link to open a saved ChatGPT session with the IA prompt loaded.
-* Click 'Continue the conversation'.
-* Start using IA by stating your goals
+* Click **'Continue the conversation'**.
+* Start using IA by stating your goals. You can keep it high-level as IA will drill down into topics all by itself.
 * **Tip**: If you are stuck, simply type `++` to consult the Guru (IA 2.5+).  IA 3.0 will accept `go` and `++`.
 
 ## Case Studies
