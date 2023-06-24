@@ -47,8 +47,7 @@ Learn how to **innovate in the knowledge frontier** with artifical intelligence 
 ## The ChatGPT Prompt
 
 * Here is the current [ChatGPT prompt](/ia-gpt-4.md) (latest version 2.7).
-* IA 2.6+ is powerful enough to evolve itself and make suggestions for its own improvement. For example, IA 2.7 was mostly designed with the help of IA 2.6. If you discover that your problem is too complicated for IA, I suggest that you ask it to design additional functions and frameworks, which you can immediately use. Please share your IA discoveries so that other innovators and researchers can also benefit.
-* The complexity of IA now has out-grown GPT 3.5, and my work is now just focusing on GPT 4. I know it leaves a lot of folks behind, so effort to make it work on GPT 3.5 is appreciated.
+* The complexity of IA now has out-grown GPT 3.5, and my work is now just focusing on GPT 4. I know it leaves a lot of folks behind, so help to make it work on GPT 3.5 is appreciated.
 * You will likely run into usage limits of GPT-4 since IA tends to create long and interesting sessions. Currently there is no work-around for this.
 
 ## Keep in touch with IA users
@@ -169,11 +168,11 @@ IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way
     
 [More Examples](examples.md)
 
-## Advanced: Generating new GPT frameworks
+## Advanced: Creating new frameworks
 
-Developing GPT frameworks / algebras for other domains:
+Developing GPT frameworks:
 
-* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) - We start with an overview how the GPT frameworks works, and then we invent a new joke telling framework. Of course there are lots of jokes along the way. Needs a lot of tweaking, please share your improvements.
+* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) 
   
 Related GPT Framework (using similar ideas as IA):
 
