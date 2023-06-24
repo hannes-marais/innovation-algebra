@@ -16,10 +16,6 @@ With a defined set of functions and thinking and analysis frameworks, IA facilit
 
 Innovation Algebra operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge. It is a great model to re-structure your thinking.
 
-* [IA for Entrepreneurs](swiss-army-knife-for-entreprenuers.md)
-* [IA for City Planners](city-planning.md)
-
-
 ## Get Started Now
 
 - [>>> Start chatting IA 3.0 (Under development) <<<](https://chat.openai.com/share/2b4b436a-b418-4474-8aad-ef2ab271655c)
@@ -42,6 +38,9 @@ Instructions:
 How do you innovate in the knowledge frontier? Become a better innovator? Solve hard problems?
 
 :star: Start by simply reading the [IA case studies](/casestudies) on topics such as creativity, engineering, city planning, business & startups, science, the environment and more. It is a crash course on how to think critically. Then apply what you learned right away using IA.
+
+* [IA for Entrepreneurs](swiss-army-knife-for-entreprenuers.md)
+* [IA for City Planners](city-planning.md)
 
 > ​The expanding knowledge frontier presents both challenges and opportunities, and effective navigation likely requires a combination of AI's computational power and the intuitive understanding of human experts. Although the dynamic between AI and the knowledge frontier's expansion may accelerate, it also opens unprecedented opportunities for discovery and innovation. As we navigate this new frontier, it's crucial to ensure a balanced approach, leveraging AI's capabilities while acknowledging the irreplaceable value of human expertise. The future lies not in competing with AI, but in collaboratively navigating the expanding knowledge frontier, ushering in an era of remarkable discovery and innovation.
 
