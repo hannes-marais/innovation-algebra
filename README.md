@@ -148,8 +148,8 @@ Apps/Tools built on top of IA and GPT frameworks:
 
 People:
 
-* Hannes Marais (me) ([HiDeeeps](https://twitter.com/HiDeeeps))
-* Wei 'Larry' Liu ([@w_lui_](https://twitter.com/w_liu_))
+* Hannes Marais (IA) ([@HiDeeeps](https://twitter.com/HiDeeeps))
+* Wei 'Larry' Liu (UT, UPA) ([@w_lui_](https://twitter.com/w_liu_))
   
 ## IA Low-level Examples
 
