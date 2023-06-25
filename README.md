@@ -145,6 +145,11 @@ Related GPT Framework (using similar ideas as IA):
 Apps/Tools built on top of IA and GPT frameworks:
 
 * None yet. Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
+
+People:
+
+* Hannes Marais (me) ([HiDeeeps](https://twitter.com/HiDeeeps))
+* Wei 'Larry' Liu ([@w_lui_](https://twitter.com/w_liu_))
   
 ## IA Low-level Examples
 
@@ -192,11 +197,6 @@ I appreciate feedback and success stories from the innovation trenches. Reach ou
 ## Thanks
 
 We stand on the shoulders of so many others. The inventors, innovators, entrepreneurs, scientists and business people that teach us how to think, our eco-system of startups, incubators and most recently the AI Chatbots and APIs from OpenAI and others. 
-
-Contacts:
-
-* Hannes Marais (me) ([HiDeeeps](https://twitter.com/HiDeeeps))
-* Wei 'Larry' Liu ([@w_lui_](https://twitter.com/w_liu_))
 
 Knowledge is power, and knowledge shared is power multiplied. Let's share!
 
