@@ -132,15 +132,18 @@ IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way
 
 ## Advanced Topics and Links
 
-Developing GPT frameworks:
+The principles behind IA can be applied to other problems/domains. In addition, IA can be used to 'enhance itself on-the-fly' by extending its own algebra of functions and frameworks. This creates rich opportunities for creating GPT Frameworks in other domains. 
 
-* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) 
-  
-Related GPT Framework (using similar ideas as IA):
+Related GPT Frameworks:
 
 * [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework. By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
 * [Universal PsychoAnalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst) - Need help? By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
 
+Learn the process of developing a new GPT framework:
+
+* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261)
+* [Algebra for Supply Chain + Sales](https://chat.openai.com/share/9346a157-2bd9-41b1-9a19-e62fbf479d5a)
+  
 Apps/Tools built on top of IA and GPT frameworks:
 
 * None yet.
