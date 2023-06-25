@@ -22,6 +22,8 @@ With a defined set of functions and thinking and analysis frameworks, IA facilit
 
 Innovation Algebra operating within ChatGPT offers a blend of structure and flexibility, making it an invaluable asset for entepreneurs, researchers, academics, and professionals seeking to navigate and harness the depth and breadth of knowledge. It is a great model to re-structure your thinking.
 
+IA is a 'base' for innovation in multiple domains, leading to new GPT super-prompts in areas such as education and psychoanalysis.
+
 ## Get Started Now
 
 - [>>> Start chatting IA 3.0 (Under development) <<<](https://chat.openai.com/share/2b4b436a-b418-4474-8aad-ef2ab271655c)
