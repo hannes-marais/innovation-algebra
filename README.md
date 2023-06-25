@@ -132,7 +132,7 @@ IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way
 
 ## Advanced Topics and Links
 
-The principles behind IA can be applied to other problems/domains. In addition, IA can be used to 'enhance itself on-the-fly' by extending its own algebra of functions and frameworks. This creates rich opportunities for creating GPT Frameworks in other domains. 
+The principles behind IA can be applied to other problems/domains. Most interestingly, IA can be used to **enhance itself on-the-fly** by extending its own algebra of functions and frameworks. 
 
 Related GPT Frameworks:
 
