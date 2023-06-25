@@ -140,6 +140,7 @@ Related GPT Frameworks:
 
 * [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework. By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
 * [Universal PsychoAnalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst) - Need help? By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
+* [Universal Story Teller (UST)](https://github.com/1arry1iu/universal-storyteller) - The most comprehensive story teller. By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
 
 Learn the process of developing a new GPT framework:
 
