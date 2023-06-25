@@ -130,6 +130,22 @@ These frameworks can be used individually or in combination depending on the con
 
 IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to evaluate ideas using all the frameworks. So if you do not know how to proceed with evaluation/improvement, type `FIRE`.
 
+## Advanced Topics and Links
+
+Developing GPT frameworks:
+
+* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) 
+  
+Related GPT Framework (using similar ideas as IA):
+
+* [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework. By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
+* [Universal PsychoAnalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst) - Need help? By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
+* Please let me know if you adapted IA for another purpose.
+
+Apps/Tools built on top of IA and GPT frameworks:
+
+* None yet. Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
+* 
 ## IA Low-level Examples
 
 Experts can invoke low-level IA functions and frameworks direcly, but you need to know the **magic incantations** below. This way of talking to IA is rapidly being surpassed by Guru mode, which can do better and more creative planning than most humans.
@@ -143,49 +159,13 @@ Experts can invoke low-level IA functions and frameworks direcly, but you need t
 **3. `Essay("space exploration", tokens=500, profundity=8, emotionalImpact=7) | Title | Abstract`**
    - **Explanation**: Generates an essay on space exploration with approximately 500 tokens, with a high profundity level and emotional impact, then creates a title for the essay and generates an abstract that summarizes the content and insights.
 
-**4. `Union("blockchain", "supply chain management") | RD | Startups`**
-   - **Explanation**: Generates the union of knowledge areas blockchain and supply chain management, lists valuable research directions in this combined domain, and invents startups based on these research directions.
 
-**5. `Topic("climate change") | PF(profundity=10) | Impr(categories=["Practicality", "Emotional Impact"])`**
-   - **Explanation**: Retrieves knowledge on climate change, generates profound statements related to climate change, and then evaluates and suggests improvements for these statements based on their practicality and emotional impact.
-
-**6. `P("neuroscience")`**
-   - **Explanation**: Generates a conversational persona that is an expert on neuroscience and explains the persona's capabilities.
-
-**7. `Topic("electric vehicles") | IP | FIP`**
-   - **Explanation**: Retrieves knowledge on electric vehicles, identifies critical historical milestones within the topic, and projects potential future inflection points that would significantly advance the knowledge frontier.
-
-**8. `Topic("cybersecurity") | ++`**
-   - **Explanation**: Retrieves knowledge on cybersecurity and improves the output by creating a composite function of multiple functions from IA 2.1 to create more interesting output for an expert on the Knowledge Frontier.
-
-**9. `Q("gene editing") | D | Explain`**
-   - **Explanation**: Lists the top research questions in the domain of gene editing, provides detailed information on the research questions including algorithms, processes, or techniques, and explains the expressions involved.
-
-**10. `Topic("robotics") | VC | Advisors`**
-    - **Explanation**: Retrieves knowledge on robotics, presents comments, challenges, and potential from a venture capitalist's perspective, and creates a board of advisors related to robotics who give feedback.
-
-**11. `Topic("nanotechnology") | RD | Essay(tokens=800, profundity=7, emotionalImpact=5)`**
-    - **Explanation**: Retrieves knowledge on nanotechnology, lists valuable research directions in the domain, and generates an essay based on these research directions with around 800 tokens and adjustable profundity and emotional impact levels.
-
-**12. `Score(Essay("modern art", tokens=300, profundity=6, emotionalImpact=8), Categories=["Originality", "Emotional Impact"])`**
+**4. `Score(Essay("modern art", tokens=300, profundity=6, emotionalImpact=8), Categories=["Originality", "Emotional Impact"])`**
     - **Explanation**: Generates a short essay on modern art with profundity and emotional impact, and then evaluates and scores the essay according to originality and emotional impact categories.
     
 [More Examples](examples.md)
 
-## Advanced Topics and Links
 
-Developing GPT frameworks:
-
-* [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261) 
-  
-Related GPT Framework (using similar ideas as IA):
-
-* [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework.
-* Please let me know if you adapted IA for another purpose.
-
-Apps/Tools built on top of IA and GPT frameworks:
-
-* None yet. Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
 
 ## The ChatGPT Prompt
 
@@ -212,6 +192,11 @@ I appreciate feedback and success stories from the innovation trenches. Reach ou
 ## Thanks
 
 We stand on the shoulders of so many others. The inventors, innovators, entrepreneurs, scientists and business people that teach us how to think, our eco-system of startups, incubators and most recently the AI Chatbots and APIs from OpenAI and others. 
+
+Contacts:
+
+* Hannes Marais (me) ([HiDeeeps](https://twitter.com/HiDeeeps))
+* Wei 'Larry' Liu ([@w_lui_](https://twitter.com/w_liu_))
 
 Knowledge is power, and knowledge shared is power multiplied. Let's share!
 
