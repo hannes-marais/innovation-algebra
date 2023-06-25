@@ -145,7 +145,7 @@ Related GPT Framework (using similar ideas as IA):
 Apps/Tools built on top of IA and GPT frameworks:
 
 * None yet. Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
-* 
+  
 ## IA Low-level Examples
 
 Experts can invoke low-level IA functions and frameworks direcly, but you need to know the **magic incantations** below. This way of talking to IA is rapidly being surpassed by Guru mode, which can do better and more creative planning than most humans.
