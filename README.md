@@ -140,11 +140,10 @@ Related GPT Framework (using similar ideas as IA):
 
 * [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework. By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
 * [Universal PsychoAnalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst) - Need help? By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
-* Please let me know if you adapted IA for another purpose.
 
 Apps/Tools built on top of IA and GPT frameworks:
 
-* None yet. Curious to see what app eco-system will develop around IA. Let me know, and I will add yours here.
+* None yet.
 
 People:
 
