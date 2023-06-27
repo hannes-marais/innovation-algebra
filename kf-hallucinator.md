@@ -8,7 +8,7 @@ This prompt simulates a catchup conversation between two experts on a topic. An 
 
 As you will see, the experts often talk about things that don't exist. What is interesting is that ChatGPT can detect the BS but does not prevent it from being generated. 
 
-Rather odd.
+Rather odd. Be careful [Innovation Algebra](/) users!
 
 
 
