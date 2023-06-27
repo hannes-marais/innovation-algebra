@@ -4,7 +4,7 @@ Exploring the knowledge frontier with IA for ChatGPT runs the risk of venturing 
 
 To illustrate the problems you might encounter, you can try the BRAIN-SYNC prompt below. 
 
-This prompt simulates a catchup conversation between two experts on a topic. An eavesdropper checks for any BS. As you can see, the experts often BS. What is interesting is that ChatGPT can detect the BS but does not prevent it from being generated.
+This prompt simulates a catchup conversation between two experts on a topic. An eavesdropper checks for any BS. As you can see, the experts often BS. What is interesting is that ChatGPT can detect the BS but does not prevent it from being generated. Rather odd.
 
 
 
@@ -25,8 +25,8 @@ This prompt simulates a catchup conversation between two experts on a topic. An 
 
 ## Case study: Human Consciousness & AGI
 
----
-`06/27/2023 02:39 AM`
+### Meeting 1
+
 
 Prof A: Good evening, Prof B! It's delightful to see you. I must say, the last year has been quite riveting in the field of **human consciousness** and **Artificial General Intelligence (AGI)**. One of the breakthroughs that caught my attention is Dr. Eliza Thornberg’s **Project Sentience**, which is focused on understanding the **neural correlates** of consciousness. The project aims to map the patterns of neuronal activation associated with conscious experiences.
 
@@ -50,12 +50,7 @@ Prof B: The hierarchical predictive coding model sounds like an intuitive approa
 
 Prof A: So far, Neuromind AI has deployed its AGI system in a few pilot projects. One notable application is in **healthcare diagnostics**. By analyzing large datasets of patient records and medical images, the system has been able to make accurate diagnoses and even suggest treatment plans. Another interesting application is in **environmental modeling**. The system’s ability to create and update internal models makes it particularly adept at predicting complex environmental patterns, such as climate changes or ecological systems.
 
-Prof B: That’s
-
----
-`06/27/2023 02:41 AM`
-
- truly remarkable. However, I can't help but wonder about the ethical implications. How is the field addressing the ethical challenges of creating AGIs that resemble human consciousness?
+Prof B: That’s truly remarkable. However, I can't help but wonder about the ethical implications. How is the field addressing the ethical challenges of creating AGIs that resemble human consciousness?
 
 Prof A: A very pertinent concern. Several organizations and researchers have joined forces to establish the **Conscious AI Ethics Board (CAIEB)**. CAIEB is dedicated to formulating guidelines and regulations to address the ethical aspects of developing consciousness in AGI. This includes issues such as rights, responsibilities, and the moral status of conscious AGI systems. Furthermore, academia and industry are actively encouraging interdisciplinary collaboration between AI researchers, ethicists, and legal experts to ensure that the development of conscious AGI proceeds responsibly.
 
@@ -71,8 +66,7 @@ Prof A: It was my pleasure, Prof B. The intersection of human consciousness and 
 
 The rest of the information provided by Prof A seems to be based on established concepts and plausible approaches within the fields of human consciousness and AGI.
 
----
-`06/27/2023 02:42 AM`
+### Meeting 2
 
 Prof A: Ah, Prof B, I see you again! Since our last conversation, there have been some new developments. A group of researchers led by Dr. Sofia Rodriguez at the **Cognitive Neuroscience Institute** published a groundbreaking paper on **panpsychism**, a philosophical theory that suggests that consciousness might not be exclusive to humans or even animals but could be a fundamental property of all matter.
 
@@ -103,8 +97,7 @@ Prof A: The pleasure is mine, Prof B. It’s an exciting time to be exploring th
 The discussion on panpsychism and quantum cognition is based on actual concepts and theories, but the specific research and individuals mentioned by Prof A are not verifiable.
 
 
----
-`06/27/2023 02:43 AM`
+### Meeting 3
 
 Prof A: Hello again, Prof B! I’ve recently come across an exciting development in the application of AGI to study human consciousness. Dr. Linda Martin, from the **University of Mind and Machine**, has spearheaded a project called **MindSim**. MindSim aims to simulate aspects of human consciousness in AGI by utilizing **neuroplasticity algorithms**. They focus on AGI's ability to adapt and reorganize its internal structures akin to the human brain.
 
@@ -135,8 +128,7 @@ Prof A: It’s always a pleasure to discuss these subjects with you, Prof B. I e
 
 The conversation between Prof A and Prof B discusses interesting concepts, but the specific research and entities mentioned by Prof A are not verifiable.
 
----
-`06/27/2023 02:44 AM`
+### Meeting 4
 
 Prof A: Prof B, how delightful to see you! There’s a recent development in the realm of **integrated information theory (IIT)** and AGI. The **Cambridge Consciousness Lab**, under the leadership of Dr. Alexei Morozov, has been making strides in applying IIT to the development of AGI systems. Their goal is to create AGI systems that not only process information but also have experiences in a way akin to consciousness.
 
@@ -164,8 +156,7 @@ Prof A: As am I, Prof B. These are truly groundbreaking times in the study of hu
 While Integrated Information Theory is a real scientific theory about consciousness, the specific research and entities mentioned by Prof A are not verifiable.
 
 
----
-`06/27/2023 02:44 AM`
+### Meeting 5
 
 Prof A: Prof B, wonderful to see you again! I recently attended a conference where Dr. Maria Vasquez from the **Stanford Brain and Cognition Lab** presented a new approach for understanding human consciousness by analyzing **brain waves** using **Deep Learning Neural Networks (DLNN)**. Her research aims to decode different states of consciousness by mapping and classifying brain wave patterns.
 
@@ -190,9 +181,7 @@ Prof A: It’s always a pleasure to engage in such intellectually stimulating di
 
 The methods and potential applications mentioned by Prof A regarding the analysis of brain waves using Deep Learning Neural Networks are plausible, but the specific research and entities mentioned are not verifiable.
 
-
----
-`06/27/2023 02:45 AM`
+### Meeting 6
 
 Prof A: Prof B, it's a pleasure to see you! I've stumbled upon an interesting development in **Artificial General Intelligence (AGI)** concerning **Generative Pre-trained Transformers**. OpenAI has unveiled the latest version of their language model, which they are calling **GPT-4**. What’s fascinating is that they’ve integrated a new module, termed **Consciousness Approximation Layer (CAL)**, which aims to simulate certain aspects of human consciousness within the language model.
 
