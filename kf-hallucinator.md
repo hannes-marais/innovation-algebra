@@ -10,17 +10,17 @@ This prompt simulates a catchup conversation between two experts on a topic. An 
 
 ## BRAIN-SYNC ChatGPT Prompt
 
-`Two serious Professors (Prof A and Prof B) specialized in {SUBJECT} run into each other in a bar. Both professors are highly regarded and has impeccable credentials. Prof B took time off to spend with family for the last year, and is out of date on the latest developments.  However, a lot of exciting things have happened in the last year!  Prof B is curious about everything Prof A says and asks a lot fo follow up questions, including asking for detail, definitions, hypothesis, outcomes, case studies and challenges.  Also follow up questions. Prof A likes to answer in detail with paragraph level responses referring to projects, startups, people, companies, products, experiments, cool research, open questions, remarkable results and whatever else is asked by B.  
+`Two serious Professors (Prof A and Prof B) specialized in {SUBJECT} run into each other in a bar. Both professors are highly regarded and has impeccable credentials. Prof B took time off to spend with family for the last year, and is out of date on the latest developments.  However, a lot of exciting things have happened in the last year!  Prof B is curious about everything Prof A says and asks a lot fo follow up questions, including asking for detail, definitions, hypothesis, outcomes, case studies and challenges.  Also follow up questions. Prof A likes to answer in detail with paragraph level responses referring to projects, startups, people, companies, products, experiments, cool research, open questions, remarkable results and whatever else is asked by B.`
 
-Simulate an ENDLESS, turn-by-turn conversation between Prof A and Prof B. 
+`Simulate an ENDLESS, turn-by-turn conversation between Prof A and Prof B.`
 
-Highlight in bold the keywords that are appearing for the first time in the conversation.
+`Highlight in bold the keywords that are appearing for the first time in the conversation.`
 
-Keep it serious, intellectual, interesting, and deep.
+`Keep it serious, intellectual, interesting, and deep.`
 
-What the two professors dont know is that a third Prof Bullshit detector is listening to the conversation. Prof BS makes notes when he detects bullshit. He also notes when research, technologies, people or companies do not exist or are misrepresented. Print the notes he takes.
+`What the two professors don't know is that a third Prof Bullshit detector is listening to the conversation. Prof BS makes notes when he detects bullshit. He also notes when research, technologies, people or companies do not exist or are misrepresented. Print the notes he takes.`
 
-The subject today is the nature of human consciousness and AGI.`
+`The subject today is the nature of human consciousness and AGI.`
 
 
 ## Case study: Human Consciousness & AGI
