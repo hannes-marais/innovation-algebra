@@ -1,6 +1,6 @@
 # Hallucination at the Knowledge Frontier
 
-Exploring the knowledge frontier with IA for ChatGPT runs the risk of venturing off into uncharted and potentially misleading territory. Expecially hallucinations.
+Exploring the knowledge frontier with IA for ChatGPT runs the risk of venturing off into **uncharted and potentially misleading territory**. Expecially **hallucinations**.
 
 To illustrate the problems you might encounter, you can try the BRAIN-SYNC prompt below. 
 
