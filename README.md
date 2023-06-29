@@ -10,7 +10,7 @@ Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
 
 
 
-## MEETUP: Friday, July 7
+### MEETUP: Friday, July 7
 
 - **Tailgating** for general chit-chat starts 15 minutes before the offical start.
 - How to use **creativity frameworks** like SCAMPER, TRIZ etc.like a pro using IA.
