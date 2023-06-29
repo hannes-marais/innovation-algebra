@@ -9,7 +9,15 @@ Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
 </div>
 
 <div align="center">
+
+# MEETUP: Friday, July 7
+
+- **Tailgating** for general chit-chat starts 15 minutes before the offical start.
+- How to use **creativity frameworks** like SCAMPER, TRIZ etc.like a pro using IA.
+- Interview with our guest speaker **Wei 'Larry' Liu** on **advanced persona prompt engineering**.
   
+[Sign up](https://lu.ma/ncjjujgn)
+
 # Innovation Algebra for ChatGPT
 
 **"Innovation Algebra (IA) is like a Swiss Army knife for knowledge processing and innovation; it's a versatile tool that brings structure and clarity to the complex world of ideas, helping innovators and thinkers to systematically navigate and cultivate the landscape of possibilities."**
