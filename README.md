@@ -10,11 +10,12 @@ Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
 
 
 
-### MEETUP: Friday, July 7
+### EXTENDED MEETUP: Friday, July 7
 
-- **Tailgating** for general chit-chat starts 15 minutes before the offical start.
+- **Tailgating** with general chit-chat starts 15 minutes before the offical start.
 - How to use **creativity frameworks** like SCAMPER, TRIZ etc.like a pro using IA.
 - Interview with **Wei 'Larry' Liu** on **advanced persona prompt engineering**.
+- Note: Many people stay after the offical meetup to talk about AI. Budget time appropriately.
 - [Sign up](https://lu.ma/ncjjujgn)
 
 <div align="center">
