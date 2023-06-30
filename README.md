@@ -143,24 +143,25 @@ These frameworks can be used individually or in combination depending on the con
 
 IA also employs a new meta-framework called [FIRE](FIRE.md), which creates a way to evaluate ideas using all the frameworks. So if you do not know how to proceed with evaluation/improvement, type `FIRE`.
 
-## Advanced Topics and Links
+## Research
 
 The principles behind IA can be applied to other problems/domains. Most interestingly, IA can be used to **enhance itself on-the-fly** by extending its own algebra of functions and frameworks. 
 
-Related GPT Frameworks:
+Most interestingly, these principles can be used to create new experts/personas very quickly. This is incredibly useful way to get the most out of GPT.
 
-* [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework. By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
-* [Universal PsychoAnalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst) - Need help? By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
-* [Universal Story Teller (UST)](https://github.com/1arry1iu/universal-storyteller) - The most comprehensive story teller. By [Wei 'Larry' Liu](https://twitter.com/w_liu_).
+Related GPT Frameworks by [Wei 'Larry' Liu](https://twitter.com/w_liu_):
+
+* [Larry's Github Repos](https://github.com/1arry1iu) - Many highly specialized prompts.
+* [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) - An active learning framework. 
+* [Universal PsychoAnalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst) - Need help? 
+* [Universal Story Teller (UST)](https://github.com/1arry1iu/universal-storyteller) - The most comprehensive story teller. 
 
 Learn the process of developing a new GPT framework:
 
 * [JesterBot / Joke Algebra](https://chat.openai.com/share/56aa5327-925a-4e50-806b-401f39df4261)
 * [Algebra for Supply Chain + Sales](https://chat.openai.com/share/9346a157-2bd9-41b1-9a19-e62fbf479d5a)
-  
-Apps/Tools built on top of IA and GPT frameworks:
-
-* None yet.
+* [Quickly generate an Expert Persona](https://github.com/1arry1iu/everything)
+* [Create Fact Checker persona](https://chat.openai.com/share/a6660567-5d53-49bb-93a3-c30607eeeaf1)
 
 People:
 
