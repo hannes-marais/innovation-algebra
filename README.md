@@ -63,11 +63,14 @@ How do you innovate in the knowledge frontier? Become a better innovator? Solve 
 
 > ​The expanding knowledge frontier presents both challenges and opportunities, and effective navigation likely requires a combination of AI's computational power and the intuitive understanding of human experts. Although the dynamic between AI and the knowledge frontier's expansion may accelerate, it also opens unprecedented opportunities for discovery and innovation. As we navigate this new frontier, it's crucial to ensure a balanced approach, leveraging AI's capabilities while acknowledging the irreplaceable value of human expertise. The future lies not in competing with AI, but in collaboratively navigating the expanding knowledge frontier, ushering in an era of remarkable discovery and innovation.
 
-## Keep in touch with IA users
+## Are you an IA power-user?
 
-* :fire: Interested in updates, tips, events or tutorials? Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra). Since IA is so new, we've not had many meetups yet, but the few we had was incredibly interesting. Really interesting discussions if you are interested in the future of AI.  Reach out if you would consider being a guest speaker.
-* Have suggestions? Ping [@HiDeeeps](https://twitter.com/HiDeeeps) or create a Git pull request.
-  
+* :fire: Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra). We have events to teach you how to innovate, create, and research.
+* Join the [GPT Framework Community](https://twitter.com/i/communities/1669253796118278144) to solve specialized problems.
+* Are you spending a lot of time using IA? Running into ChatGPT limits? Contact me for faster research and work arounds.
+* Contact Hannes [@HiDeeeps](https://twitter.com/HiDeeeps).
+
+
 ## Guru Mode for Guided Innovation (IA 2.5+)
 
 * Since innovation frameworks are complex, IA 2.5 introduced "Guru mode" to guide your exploration. Simply set your Goal() and invoke Guru mode via ++. Guru will pick IA functions and frameworks to guide you to your goal. 
