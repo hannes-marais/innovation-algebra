@@ -67,7 +67,7 @@ How do you innovate in the knowledge frontier? Become a better innovator? Solve 
 
 * :fire: Join the [Innovation Algebra Users Group](https://lu.ma/innovationalgebra). We have events to teach you how to innovate, create, and research.
 * Join the [GPT Framework Community](https://twitter.com/i/communities/1669253796118278144) to solve specialized problems.
-* Are you spending a lot of time using IA? Running into ChatGPT limits? Contact me for faster research and work arounds.
+* Are you spending a lot of time using IA (multiple hours)? Running into ChatGPT limits? Contact me for big research projects, speedups and work arounds.
 * Contact Hannes [@HiDeeeps](https://twitter.com/HiDeeeps).
 
 
