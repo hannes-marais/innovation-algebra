@@ -1,4 +1,4 @@
-![Functions](IA.001.jpeg)
+![Functions](algebra.png)
 
 <div align="center">
 
