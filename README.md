@@ -12,9 +12,9 @@ Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
 
 ### MEETUPS
 
-Planning the next event!  
-
-**In the meantime, check out the [slides](/meetups) from previous meetings.**
+> Planning the next event!  
+>
+> **In the meantime, check out the [slides](/meetups) from previous meetings.**
 
 <div align="center">
   
