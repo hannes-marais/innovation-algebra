@@ -2,8 +2,6 @@
 
 <div align="center">
   
-[![Innovation Algebra Demo](https://img.youtube.com/vi/BQfi9ReDuDY/0.jpg)](https://www.youtube.com/watch?v=BQfi9ReDuDY "Innovation Algebra Demo")  
-  
 [![Innovation Algebra Introduction](https://img.youtube.com/vi/LacfSWb-JrY/0.jpg)](https://www.youtube.com/watch?v=LacfSWb-JrY "Innovation Algebra Introduction")
 
 Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
@@ -55,6 +53,8 @@ Instructions:
 * **Tip**: If you are stuck, simply type `++` to consult the Guru (IA 2.5+).  IA 3.0 will accept `go` and `++`.
 
 ## Case Studies
+
+[![Innovation Algebra Demo](https://img.youtube.com/vi/BQfi9ReDuDY/0.jpg)](https://www.youtube.com/watch?v=BQfi9ReDuDY "Innovation Algebra Demo")  
 
 How do you innovate in the knowledge frontier? Become a better innovator? Solve hard problems?
 
