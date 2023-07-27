@@ -2,6 +2,7 @@
 
 <div align="center">
 [![Innovation Algebra Demo](http://img.youtube.com/vi/BQfi9ReDuDY/0.jpg)](http://www.youtube.com/watch?v=BQfi9ReDuDY "Innovation Algebra Demo")  
+  
 [![Innovation Algebra Introduction](http://img.youtube.com/vi/LacfSWb-JrY/0.jpg)](http://www.youtube.com/watch?v=LacfSWb-JrY "Innovation Algebra Introduction")
 
 Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
