@@ -36,12 +36,14 @@ IA is a 'base' for innovation in multiple domains, leading to new GPT super-prom
 
 ## Get Started Now
 
-- [>>> Start chatting IA 3.0 (Under development) <<<](https://chat.openai.com/share/2b4b436a-b418-4474-8aad-ef2ab271655c)
+
 - [>>> Start chatting IA 2.7 <<<](https://chat.openai.com/share/c7fb98e7-2334-4008-8714-a6a2191052cb)
 - [>>> Start chatting IA 2.6 <<<](https://chat.openai.com/share/8d15d103-52fe-468c-bde9-e35d4256d519)
 - [>>> Start chatting IA 2.5 <<<](https://chat.openai.com/share/655ced1d-63d9-4ef8-93e1-a93074b655e7)
 - [>>> Start chatting IA 2.2 <<<](https://chat.openai.com/share/977119a8-60ef-49d4-8a0f-4e0ae6ce9ff1)
 - [>>> Start chatting IA 2.1 <<<](https://chat.openai.com/share/139f640b-b979-4c21-8c0e-e780bf84a4f1)
+
+- [>>> Start chatting IA 3.0 (Under development) <<<](https://chat.openai.com/share/2b4b436a-b418-4474-8aad-ef2ab271655c)
 
 Instructions:
 
