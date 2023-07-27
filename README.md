@@ -54,7 +54,7 @@ Instructions:
 
 ## Case Studies
 
-[![Innovation Algebra Demo](https://img.youtube.com/vi/BQfi9ReDuDY/0.jpg)](https://www.youtube.com/watch?v=BQfi9ReDuDY "Innovation Algebra Demo")  
+
 
 How do you innovate in the knowledge frontier? Become a better innovator? Solve hard problems?
 
@@ -62,6 +62,10 @@ How do you innovate in the knowledge frontier? Become a better innovator? Solve 
 
 * [IA for Entrepreneurs](swiss-army-knife-for-entreprenuers.md)
 * [IA for City Planners](city-planning.md)
+
+Video on exploring a new toy for 8yo boys using IA:
+
+[![Innovation Algebra Demo](https://img.youtube.com/vi/BQfi9ReDuDY/0.jpg)](https://www.youtube.com/watch?v=BQfi9ReDuDY "Innovation Algebra Demo")  
 
 
 ## The Knowledge Frontier
