@@ -12,10 +12,7 @@ Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
 
 ### MEETUPS
 
-> **Brainsimming / AI Brainstorming**, Aug 4 @ 9am Pacific time [Signup](https://lu.ma/jj9zm72a)
-> 
-> ​Brainsimming is a new technique where multiple AI personas are participating in a virtual brainstorming session. And coming up with ideas! We will cover novel simulation scenarios like the Two Professors, Diplomatic Brainstorming, The Torture Chamber, and data analysis with multiple personas.
-> 
+> In planning.
 > **[Slides](/meetups) from previous meetings.**
 
 <div align="center">
