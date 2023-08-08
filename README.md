@@ -33,6 +33,11 @@ IA is a 'base' for innovation in multiple domains, leading to new GPT super-prom
 
 ## Get Started Now
 
+Since IA has grown to several tools, the best way is to start here
+
+[>>> LAUNCH IA TOOLBOX <<<](https://lu.ma/u/innovationalgebra)
+
+Older scripts:
 
 - [>>> Start chatting IA 2.7 (Recommended) <<<](https://chat.openai.com/share/c7fb98e7-2334-4008-8714-a6a2191052cb)
 - [>>> Start chatting IA 2.6 <<<](https://chat.openai.com/share/8d15d103-52fe-468c-bde9-e35d4256d519)
