@@ -1,20 +1,3 @@
-![Functions](algebra.png)
-
-<div align="center">
-  
-[![Innovation Algebra Introduction](https://img.youtube.com/vi/LacfSWb-JrY/0.jpg)](https://www.youtube.com/watch?v=LacfSWb-JrY "Innovation Algebra Introduction")
-
-Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
-
-</div>
-
-
-
-### MEETUPS
-
-> In planning.
-> **[Slides](/meetups) from previous meetings.**
-
 <div align="center">
   
 # Innovation Algebra for ChatGPT
@@ -22,6 +5,12 @@ Watch the IA video. [Slides.PDF](IA-slides-june-2023.pdf)
 **"Innovation Algebra (IA) is like a Swiss Army knife for knowledge processing and innovation; it's a versatile tool that brings structure and clarity to the complex world of ideas, helping innovators and thinkers to systematically navigate and cultivate the landscape of possibilities."**
 
 </div>
+
+## Get Started Now
+
+Vist the [>>> IA HOME PAGE <<<](https://innovationalgebra.com) to access the Innovator's toolbox, events, videos and much more.
+
+## Background 
 
 Innovation Algebra (IA) is an experimental GPT framework designed for systematic generation, processing and evaluation of ideas. What sets IA apart is its integration within ChatGPT, allowing users to leverage the natural language processing capabilities of ChatGPT in combination with the structured functions of IA.
 
