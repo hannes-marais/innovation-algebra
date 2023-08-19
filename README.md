@@ -2,11 +2,11 @@
   
 # Innovation Algebra for ChatGPT
 
-**"Innovation Algebra (IA) is like a Swiss Army knife for knowledge processing and innovation; it's a versatile tool that brings structure and clarity to the complex world of ideas, helping innovators and thinkers to systematically navigate and cultivate the landscape of possibilities."**
+**Innovation Algebra (IA) is like a Swiss Army knife for knowledge processing and innovation; it's a versatile tool that brings structure and clarity to the complex world of ideas, helping innovators and thinkers to systematically navigate and cultivate the landscape of possibilities.**
 
-## Use Innovation Algebra
+## Get Started with Innovation Algebra
 
-Please visit the [Innovation Algebra](https://innovationalgebra.com) to access the **Innovator's toolbox**, events, videos and much more.
+Please visit our home at [Innovation Algebra](https://innovationalgebra.com) to access the **Innovator's toolbox**, events, videos, links and much more.
 
 ## Background 
 
