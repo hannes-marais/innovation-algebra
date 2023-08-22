@@ -6,7 +6,7 @@
 
 ## Get Started with Innovation Algebra
 
-Please visit our home at [Innovation Algebra](https://innovationalgebra.com) to access the **Innovator's toolbox**, events, videos, links and much more.
+Please visit our home at [Innovation Algebra](https://lu.ma/u/innovationalgebra) to access the **Innovator's toolbox**, events, videos, links and much more.
 
 ## Background 
 
